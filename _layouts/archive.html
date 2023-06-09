@@ -25,9 +25,8 @@ layout: page
     {% assign ts = post.date | date: '%s' %}
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
-
-    {% if forloop.last %}</ul>{% endif %}
   {% endif %}
+  {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
 
 </div>
