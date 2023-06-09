@@ -1,6 +1,6 @@
 ---
 title: Akce Bohemia
-layout: archive
+layout: archives
 category: akce
 icon: fas fa-archive
 order: 3

@@ -1,6 +1,6 @@
 ---
 title: Časopis Bohemia
-layout: archivr
+layout: archives
 category: bohemia
 icon: fas fa-archive
 order: 4
