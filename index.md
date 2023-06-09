@@ -1,8 +1,7 @@
 ---
-title: DOMOVSKÁ STRÁNKA
-date: 2023-06-05 15:50:00 +0200
-categories: 
-tags: # TAG names should always be lowercase
+# layout: home
+# Index page
+layout: page
 ---
 
 Vítejte na stránkách kulturního a krajanského spolku Bohemia ry.

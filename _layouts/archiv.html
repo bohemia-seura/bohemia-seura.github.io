@@ -1,0 +1,33 @@
+---
+layout: page
+# The Archives of posts with a certain category.
+---
+
+{% include lang.html %}
+
+{% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
+{% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
+
+<div id="akce" class="pl-xl-3">
+
+{% for post in site.posts %}
+  {% if post.categories[0] == page.category %}
+    {% capture cur_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+
+    {% if cur_year != last_year %}
+        {% unless forloop.first %}</ul>{% endunless %}
+        <div class="year lead">{{ cur_year }}</div>
+        <ul class="list-unstyled">
+        {% assign last_year = cur_year %}
+    {% endif %}
+
+    <li>
+    {% assign ts = post.date | date: '%s' %}
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+
+    {% if forloop.last %}</ul>{% endif %}
+  {% endif %}
+{% endfor %}
+
+</div>
