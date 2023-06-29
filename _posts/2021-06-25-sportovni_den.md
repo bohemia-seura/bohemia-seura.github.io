@@ -1,6 +1,6 @@
 ---
 title: Sportovní den
-layout: default
+layout: akce
 date: 2021-06-25 15:50:00 +0200
 categories: [akce]
 tags: [cz] # TAG names should always be lowercase
@@ -57,16 +57,3 @@ Nunc quis dolor faucibus, gravida justo ut, cursus mi. Aenean nec placerat liber
 Pellentesque maximus ante ut vehicula molestie. Sed non neque lobortis, finibus ligula a, gravida nisi. Duis at fermentum felis, vitae fringilla velit. Quisque pretium augue augue, a tincidunt purus suscipit in. Donec et sem lobortis, consectetur odio id, tempor libero. Quisque consectetur massa finibus diam tincidunt tempor sit amet eget arcu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum dignissim odio sit amet commodo tincidunt. Nunc hendrerit imperdiet vehicula.
 
 Sed iaculis ornare dignissim. Duis efficitur vestibulum hendrerit. Integer cursus ex eget mauris ornare congue. Donec nec commodo est. Nulla eget tortor neque. Etiam consequat ultricies tempor. Integer tempor venenatis tincidunt. Nulla in nibh luctus, cursus erat vel, tristique justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce vehicula placerat imperdiet. Suspendisse lacus ex, porta sed feugiat nec, blandit ac nisl. Curabitur vestibulum mi in turpis tincidunt finibus. Maecenas orci dolor, scelerisque ac maximus id, pulvinar nec dui. Proin vitae urna ut tellus vulputate egestas. 
-
-<div class ="image-gallery">
-{% for image in page.images %}
-    {% assign thumb = image.image | replace: '.jpg', '_t.jpg' %}
-    {% assign thumb = thumb | replace: '.png', '_t.jpg' %}
-    {% assign thumb = thumb | replace: '.jpeg', '_t.jpg' %}
-    <div class="box">
-    <a href="{{ page.image_path }}{{ image.image }}">
-      <img src="{{ page.image_path }}{{ thumb }}" alt="{{ image.title}}"  class="img-gallery" />
-     </a>
-    </div>
- {% endfor %}
-</div>
