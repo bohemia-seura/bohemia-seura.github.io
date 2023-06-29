@@ -1,3 +1,7 @@
+## Photo gallery
+Upload photos (".png",".jpg",".jpeg" any size) and thumbnails (".jpg" 200x200 px) to the same folder. In the page header specify "image_path" variable (e.g. "image_path: /photos/sportovni_den/") and for each image its name (image.image) and title (image.title). The thumbnails can be generated with irfanView batch processing and are expected to have the same name as the image + "_t" and extension ".jpg". Configuration file is "irfanView_thumbs.ini" and the name pattern is "$N_t".
+
+
 # Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
 When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `/_data`, `/_layouts`, `/_includes`, `/_sass` and `/assets`, as well as a small part of options of the `/_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
