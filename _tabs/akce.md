@@ -1,6 +1,6 @@
 ---
 title: Akce
-layout: archive
+layout: archiv_akce
 category: akce
 icon: fas fa-archive
 order: 3

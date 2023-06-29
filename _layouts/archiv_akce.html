@@ -1,0 +1,21 @@
+---
+# The Archives of posts with a certain category.
+layout: page
+---
+
+{% include lang.html %}
+
+{% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
+{% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
+
+<div id="akce" class="pl-xl-3">
+  <ul class="list-unstyled">
+    {% for post in site.posts %}
+      {% if post.categories[0] == page.category %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>

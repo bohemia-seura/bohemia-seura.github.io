@@ -1,6 +1,6 @@
 ---
-layout: page
 # The Archives of posts with a certain category.
+layout: page
 ---
 
 {% include lang.html %}
@@ -8,7 +8,7 @@ layout: page
 {% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
 {% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
 
-<div id="akce" class="pl-xl-3">
+<div id="clanky" class="pl-xl-3">
 
 {% assign last_year = 0 %}
 {% for post in site.posts %}
