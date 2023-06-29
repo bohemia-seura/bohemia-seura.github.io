@@ -1,7 +1,7 @@
 ---
 title: Waltariho Čechy
 layout: clanek
-date: 2008-03-01 00:00:00 +0200
+date: 2008-03-01 01:00:00 +0200
 category: bohemia
 tags: [cz] # TAG names should always be lowercase
 volume: 2008
