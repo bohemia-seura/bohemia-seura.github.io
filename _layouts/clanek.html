@@ -15,7 +15,7 @@ tail_includes:
 {% assign imgurl = "/covers/" | append: page.volume | append: "_" | append: page.issue | append: ".jpg" %}
 {% for static_file in site.static_files %}
   {% if static_file.path == imgurl %}
-    <img src="{{ imgurl }}"/>
+    <img src="{{ imgurl }}" alt="cover"/>
   {% endif %}
 {% endfor %}
 
