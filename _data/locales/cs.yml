@@ -52,10 +52,12 @@ notification:
 # ----- Posts related labels -----
 
 post:
-  written_by: Od
+  written_by: Autor
   translated_by: Překlad
   volume: Ročník
   issue: Číslo
+  gallery: Fotogalerie
+  calendar: Kalendář
   posted: Zveřejněno
   updated: Aktualizováno
   words: slova

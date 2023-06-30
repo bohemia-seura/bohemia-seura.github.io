@@ -1,8 +1,9 @@
 ---
 title: Sportovní den
 layout: akce
-date: 2021-06-25 15:50:00 +0200
+date: 1990-01-05 00:00:00 +0200
 categories: [akce]
+event: sportovni_den
 tags: [cz] # TAG names should always be lowercase
 image_path: /photos/sportovni_den/
 images:

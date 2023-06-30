@@ -1,55 +1,22 @@
 ---
-title: Drakiáda
+title: Lampionový průvod
 layout: akce
-date: 2020-06-28 15:50:00 +0200
+date: 1990-01-06 00:00:00 +0200
 categories: [akce]
+event: lampionovy_pruvod
 tags: [cz] # TAG names should always be lowercase
-image_path: /photos/drakiada/
+image_path: /photos/lampionovy_pruvod/
 images:
-  - image: Drakiada2020-001.jpeg
-    title: Drakiáda
-  - image: Drakiada2020-002.jpeg
-    title: Drakiáda
-  - image: Drakiada2020-003.jpeg
-    title: Drakiáda
-  - image: Drakiada2020-004.jpeg
-    title: Drakiáda
-  - image: Drakiada2020-005.jpeg
-    title: Drakiáda
-  - image: Drakiada2020-006.jpeg
-    title: Drakiáda
-  - image: Drakiada2020-007.jpeg
-    title: Drakiáda
-  - image: Drakiada2020-008.jpeg
-    title: Drakiáda
-  - image: Drakiada2020-009.jpeg
-    title: Drakiáda
-  - image: Drakiada2020-010.jpeg
-    title: Drakiáda
-  - image: Drakiada2020-011.jpeg
-    title: Drakiáda
-  - image: Drakiada2020-012.jpeg
-    title: Drakiáda
-  - image: Drakiada2020-013.jpeg
-    title: Drakiáda
-  - image: Drakiada2020-014.jpeg
-    title: Drakiáda
-  - image: Drakiada2020-015.jpeg
-    title: Drakiáda
-  - image: Drakiada2020-016.jpeg
-    title: Drakiáda
-  - image: Drakiada2020-017.jpeg
-    title: Drakiáda  
-  - image: Drakiada2020-018.jpeg
-    title: Drakiáda
-  - image: Drakiada2020-019.jpeg
-    title: Drakiáda
-  - image: Drakiada2020-020.jpeg
-    title: Drakiáda
-  - image: Drakiada2020-011.jpeg
-    title: Drakiáda
-  - image: Drakiada2020-012.jpeg
-    title: Drakiáda
+  - image: LampionovyPruvod2021-001.jpeg
+    title: Lampionový průvod
+  - image: LampionovyPruvod2021-002.jpeg
+    title: Lampionový průvod
+  - image: LampionovyPruvod2021-003.jpeg
+    title: Lampionový průvod
+  - image: LampionovyPruvod2021-004.jpeg
+    title: Lampionový průvod
+  - image: LampionovyPruvod2021-005.jpeg
+    title: Lampionový průvod
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sollicitudin mauris nec suscipit accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus quis neque luctus, placerat nisi ac, dignissim enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam pulvinar dui non nulla egestas, id ultricies nisi posuere. Suspendisse ultrices velit elit, scelerisque tempus nibh dapibus et. Cras blandit sapien in nulla mattis eleifend. Etiam fringilla sapien in ligula consequat auctor. Duis convallis lorem id nibh tincidunt finibus.

@@ -1,0 +1,131 @@
+- date: 2022-03-12
+  name:
+    cs: Pohádková sobota - novoroční sáňkovačka
+    sk: Rozprávková sobota - novoročná sánkovačka
+  categories:
+    - pohadkova_sobota
+- date: 2022-03-12
+  name:
+    cs: Pohádková sobota
+    sk: Rozprávková sobota
+  categories:
+    - pohadkova_sobota
+- date: 2022-03-23
+  name:
+    cs: Beseda s překladatelem Eero Balkem
+    fi: Vieraana suomentaja Eero Balk
+- date: 2022-04-10
+  name:
+    cs: Velikonoční setkání rodin krjanů
+- date: 2022-04-23
+  name:
+    cs: Pohádková sobota - beseda se Sašou Salmela
+    sk: Rozprávková sobota - beseda so Sašou Salmela
+  categories:
+    - pohadkova_sobota
+    - beseda
+- date: 2022-05-03
+  name:
+    cs: Beseda - Proč mají Češi rádi Finsko (a naopak)?
+    fi: Keskustelu - Miksi tšekit pitävät Suomesta (ja päinvastoin)?
+  categories:
+    - beseda
+- date: 2022-05-21
+  name:
+    cs: Pohádková sobota
+    sk: Rozprávková sobota
+  categories:
+    - pohadkova_sobota
+- date: 2022-06-01
+  name:
+    cs: Mezinárodní den děti na Slovenském velvyslanectví v Helsinkách
+    sk: Medzinárodný deň detí na Slovenskom veľvyslanectve v Helsinkách
+- date: 2022-06-05
+  name:
+    cs: Výroční schůze a piknik na Suomenlinna
+    fi: Vuosikokous ja piknik Suomenlinnassa
+  categories:
+    - schuze
+    - piknik
+- date: 2022-08-13
+  name:
+    cs: Češi a Slováci ve Finsku - výlet do Tampere
+- date: 2022-10-09
+  name:
+    cs: Pohádková sobota - drakiáda
+    sk: Sobotné stretnutie s krajanmi - púšťanie šarkanov
+  categories:
+    - pohadkova_sobota
+    - drakiada
+- date: 2022-11-12
+  name:
+    cs: Taneční zábava
+    fi: Tanssijuhlat
+  categories:
+    - tanecni_zabava
+- date: 2022-11-19
+  name:
+    cs: Pohádková sobota - lampionový průvod
+    sk: Sobotné stretnutie s krajanmi - lampionový sprievod
+  categories:
+    - pohadkova_sobota
+    - lampionovy_pruvod
+- date: 2022-12-10
+  name:
+    cs: Mikulášská besídka
+  categories:
+    - pikkulas
+- date: 2022-12-18
+  name:
+    cs: Pohádková neděle - vánoční tvoření
+    sk: Nedeľné stretnutie s krajanmi - vianočné tvorenie
+  categories:
+    - pohadkova_sobota  
+- date: 2023-02-11
+  name:
+    cs: Pohádková sobota
+    sk: Sobotné stretnutie s krajanmi
+  categories:
+    - pohadkova_sobota
+- date: 2023-03-18
+  name:
+    cs: Pohádková sobota
+    sk: Sobotné stretnutie s krajanmi
+  categories:
+    - pohadkova_sobota
+- date: 2023-04-01
+  name:
+    cs: Velikonoční setkání rodin krajanů
+- date: 2023-04-15
+  name:
+    cs: Pohádková sobota
+    sk: Sobotné stretnutie s krajanmi
+  categories:
+    - pohadkova_sobota
+- date: 2023-05-13
+  name:
+    cs: Pohádková sobota - sportovní aktivity a opékačka
+    sk: Sobotné stretnutie s krajanmi - športové aktivity a opekačka
+  categories:
+    - pohadkova_sobota
+    - sportovni_den
+- date: 2023-06-04
+  name:
+    cs: Výroční schůze a piknik na Suomenlinna
+    fi: Vuosikokous ja piknik Suomenlinnassa
+  categories:
+    - schuze
+    - piknik
+- date: 2023-08-26
+  name:
+    cs: Výlet do Nuuksia
+  place: Kattilantie 426, FI-02820 Espoo, Suomi
+  categories:
+    - vylet
+- date: 2023-11-11
+  name:
+    cs: Taneční zábava
+    fi: Tanssijuhlat
+  place: Vartiokylän työväentalo
+  categories:
+    - tanecni_zabava
