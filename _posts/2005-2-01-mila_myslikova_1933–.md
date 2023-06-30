@@ -6,6 +6,7 @@ category: bohemia
 tags: [fi]
 volume: 2005
 issue: 2
+author: eero_balk
 ---
   
 Näyttelijä Míla Myslíková kuoli Prahassa 11.2.2005 vain kolme päivää ennen 72-vuotispäiviään. Hän oli jo pitkään potenut MS-tautia ja sokeritautia. 

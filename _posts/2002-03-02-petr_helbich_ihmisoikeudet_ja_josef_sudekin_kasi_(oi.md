@@ -1,11 +1,13 @@
 ---
-title: Petr Helbich Ihmisoikeudet ja Josef Sudekin käsi (oikea)
+title: Ihmisoikeudet ja Josef Sudekin käsi (oikea)
 layout: clanek
-date: 2002-3–4-01 00:00:00 +0200
+date: 2002-03-02 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2002
 issue: 3–4
+author: petr_helbich
+translated: eero_balk
 ---
   
 Valokuvaaja Josef Sudek omaksui kai jo vähän yli kolmikymppisenä erikoisen tyylin. Hän heittäytyi kulkuriksi, joka ei välittänyt ulkonäöstään, ajattelivatpa muut mitä tahansa. Hän ajoi partansa vain joka kolmas kuukausi, ”kun parta rupesi häiritsemään”, konserteissa hän kävi likaisessa paidassa ja kuin suoraan putkasta tempaistuissa housuissa ja piereksi tarpeen tullen estottomasti hienossakin seurassa. Josef Sudekin ystävät eivät vieläkään, kaksikymmentä vuotta hänen kuolemansa jälkeen, osaa suhtautua tähän seikkaan. Heistä se on korkeintaan verrattavissa hänen valokuviensa mustiin kehyksiiin. Niillä tosin oli taiteellinen tehtävä, mutta Sudekin ulkonäöllä tuskin. 

@@ -23,8 +23,11 @@ layout: page
     {% endif %}
 
     <li>
-    {% assign ts = post.date | date: '%s' %}
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    {% assign title = post.title %}
+    {% if post.author %}
+      {% assign title = site.data.authors[post.author].name | append: ": " | append: title %}
+    {% endif %}
+        <a href="{{ post.url | relative_url }}">{{ title }}</a>
     </li>
   {% endif %}
   {% if forloop.last %}</ul>{% endif %}

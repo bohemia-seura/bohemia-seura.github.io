@@ -1,11 +1,12 @@
 ---
-title: Tiina Vainomäki Leoš Janáček ja Lidové Noviny
+title: Leoš Janáček ja Lidové Noviny
 layout: clanek
 date: 2006-1-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2006
 issue: 1
+author: tiina_vainomaki
 ---
   
 Säveltäjä Leoš Janáčekin (1854-1928) kynästä ei lähtenyt ainoastaan kuolemattomia säveliä: aina vuodesta 1875 (Prahan Urkurikoulussa vietetyn opintovuoden jälkeen) viimeiseen elinvuoteensa asti Janáček kirjoitti kriittisiä katsauksia musiikkielämään, konsertti- ja ooppera-arvosteluja, artikkeleita ja esseitä liittyen hänen toimintaansa Brnon musiikkielämän kehittäjänä ja organisaattorina. Brnon Beseda-seuran kuoromestarina hän toimitti Besedan tuella jopa omaa musiikkilehteään Hudební listyä vuosina 1884-1888. Lehden päätoimittajana hän saattoi tuoda esille visioitaan musiikin ajankohtaisista ilmiöistä ja suuntauksista ja myös hioa taitojaan musiikinteoreetikkona. Keskittyäkseen työhönsä perustamansa Brnon Urkurikoulun (jonka hän ideoi Prahan esikuvan mukaisesti) johtajana Janáček jätti Besedan ja myös Hudební listy lakkasi ilmestymästä. Tämä ei Janáéekin kirjoittajapersoonaa kuitenkaan kauaa pidätellyt. Vuonna 1890 hän ryhtyi uuden brnolaisen päivälehden Moravské listyn musiikkikriitikoksi ja myöhemmin myös sen teatteri- ja musiikkitoimittajaksi. Tällä toiminnalla ei ollut mitenkään vähäpätöinen rooli Janáčekin säveltäjäpersoonan kannalta: hän tutustui moniin uusiin ooppera- ja näytelmäteoksiin, esimerkiksi vuonna 1892 Pietro Mascagnin veristiseen oopperaan Cavalleria rusticana (1889), jota Janáček ylisti kritiikissään, ja vuonna 1891 Gabriela Preissován näytelmään Její pastorkyňa. Muun muassa näistä impulsseista syntyi seuraavan kymmenen vuoden aikana Janáčekin läpimurtoteos, ooppera Její pastorkyňa, jonka nimeksi Tšekin ulkopuolella on vakiintunut Jenůfa oopperan päähenkilön mukaan. 

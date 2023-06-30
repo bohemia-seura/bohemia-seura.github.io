@@ -1,11 +1,12 @@
 ---
-title: Tiina Vainomäki Tšekkiläisen musiikin juhlavuosi 2004
+title: Tšekkiläisen musiikin juhlavuosi 2004
 layout: clanek
 date: 2004-1-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2004
 issue: 1
+author: tiina_vainomaki
 ---
   
 Vuonna 2004 vietetään tšekkiläisen musiikin juhlavuotta: tulee kuluneeksi mm. 180 vuotta säveltäjä Bedřich Smetanan syntymästä ja 120 vuotta hänen kuolemastaan, sata vuotta Antonín Dvořákin kuolemasta ja 150 vuotta Leoš Janáčekin syntymästä. Monella vähemmän tunnetullakin säveltäjällä ja esittäjällä on tänä vuonna merkkivuosi. Juhlavuosia muistetaan Tšekissä ja ulkomailla monella tavalla. Tšekin musiikin tiedotuskeskus on avannut Internet-sivun www.ceskahudba2004.cz, jolta saa tarkempaa tietoa tapahtumista. 

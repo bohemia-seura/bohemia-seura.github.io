@@ -1,11 +1,12 @@
 ---
-title: Eero Balk Kosmopoliittista elokuvaa
+title: Kosmopoliittista elokuvaa
 layout: clanek
 date: 2004-2-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2004
 issue: 2
+author: eero_balk
 ---
   
 Nuorten ulkomaalaisten tulva on tehnyt Prahasta viimeisten viidentoista vuoden aikana kosmopoliittisen. Kaupungille on siis käynyt niin kuin muillekin Euroopan pääkaupungeille: vaikka itse maa olisi kansallisesti homogeeninen, pääkaupungissa kukoistaa kulttuurien kirjo.

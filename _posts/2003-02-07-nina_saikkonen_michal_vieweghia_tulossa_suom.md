@@ -1,11 +1,12 @@
 ---
-title: Nina Saikkonen Michal Vieweghiä tulossa suomeksi
+title: Michal Vieweghiä tulossa suomeksi
 layout: clanek
-date: 2003-2-3-01 00:00:00 +0200
+date: 2003-02-07 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2003
 issue: 2-3
+author: nina_saikkonen
 ---
 ja kolumnisti Michal Viewegh on syntynyt Prahassa 31.3.1962. Hän valmistui Kaarlen yliopistosta pääaineinaan tšekin kieli ja kasvatustiede. Opetettuaan joitakin vuosia peruskoulussa hän siirtyi 1993 kustannustoimittajaksi Český spisovatel -kustantamoon. Nykyisin hän on vapaa kirjailija.
 Vieweghin tyylin peruspiirteet tulevat näkyviin jo ensimmäisessä romaanissa Názory na vraždu: lahjakkuus tarinankertojana ja tapa sisällyttää kerrontaan kommentteja ja lainauksia korostavat tekstin kirjallista luonnetta. Salapoliisiromaani opettajan murhasta kasvaa kuvaukseksi ihmisen mielettömyydestä ja laumamentaliteetista. Báječná léta pod psa palkittiin vuonna 1993 Ortenin palkinnolla (Cena Jiřího Ortena). Tšekkoslovakian Prahan kevättä ennakoinut tragikoominen ilmapiiri ja Varsovan liiton interventiota seuranneet normalisaation vuosikymmenet luovat pohjan kepeän humoristiselle ja itseironiselle tarinalle. Nápady laskavého čtenáře näyttää Vieweghin parodiantajun: Milan Kundera, Bohumil Hrabal, Ernest Hemingway ja Henry Miller saavat kukin osansa. Romaanilla Výchova dívek v Čechách on omaelämäkerrallinen tausta. Kioskikirjallisuutta jäljittelevä kerronta kuvaa ironisesti tšekkiläistä koulutusjärjestelmää samettivallankumouksen jälkimainingeissa. Viewegh leikittelee tietoisesti merkityksillä, kompositiolla ja kielellä. Hänen tekstinsä on monikerroksista, dialoginsa rytmikästä ja veitsenterävää. Romaanin englanninnos oli ehdolla IMPAC Dublin Literary Awardin saajaksi 1999. 

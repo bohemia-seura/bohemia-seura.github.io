@@ -1,11 +1,12 @@
 ---
-title: Kaarina Koski Nakukuvia riittää. Tšekit suhtautuvat pornoon suvaitsevasti
+title: Nakukuvia riittää. Tšekit suhtautuvat pornoon suvaitsevasti
 layout: clanek
 date: 2003-4-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2003
 issue: 4
+author: kaarina_koski
 ---
   
 Sosialismin jälkeen pornografisen aineiston saatavuus on Tšekissä jyrkästi lisääntynyt. Laki rajoittaa pornon levittämistä alaikäisille, mutta yleisesti tšekit ovat verrattain suvaitsevia pornoa kohtaan. Suvaitsevaisuuden pohjana ovat muun muassa epäuskonnollisuus ja naisliikkeen heikkous.

@@ -5,7 +5,7 @@ date: 1999-02-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 1999
-issue: 2
+issue: 2-3
 ---
 Slovenialaisessa Vilenican kaupungissa joka syyskuu jaettava kirjallisuuspalkinto meni kolmannen kerran määriläiselle kirjailijalle, Sveitsissä asuvalle Erica Pedrettille.
 Erica Pedretti on syntynyt vuonna 1930 pohjoismääriläisessä Šternberkin kaupungissa. Vuonna 1945 hänet saksalaisena karkotettiin Tšekkoslovakiasta ja hän asettui vanhempiensa kanssa Sveitsiin. Siellä hän opiskeli hopeasepäksi ja on saavuttanut mainetta kuvataiteilijana.

@@ -52,8 +52,9 @@ notification:
 
 post:
   written_by: Kirjoittaja
+  translated_by: Käännäjä
   volume: Ročník
-  issue: Číslo
+  issue: Numero
   posted: Julkaistu
   updated: Päivitetty
   words: sanaa

@@ -1,11 +1,12 @@
 ---
-title: Jussi-Pekka Hakkarainen Praha
+title: Praha
 layout: clanek
 date: 2006-1-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2006
 issue: 1
+author: jussi_pekka_hakkarainen
 ---
   
 Suomalaisen Kirjallisuuden Seuran julkaisemassa Kirjailijan kaupunki -sarjassa on Pariisin, Tarton, Berliinin ja Rooman jälkeen ilmestynyt Prahaa käsittelevä teos. Kirjan on toimittanut nuori turkulainen historioitsija Jussi-Pekka Hakkarainen.

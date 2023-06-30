@@ -1,11 +1,13 @@
 ---
-title: Eva Martinková Tšekkiläinen yhteiskunta länsimaistuu
+title: Tšekkiläinen yhteiskunta länsimaistuu
 layout: clanek
-date: 2004-1-01 00:00:00 +0200
+date: 1995-04-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
-volume: 2004
-issue: 1
+volume: 1995
+issue: 4
+author: eva_martinkova
+translated: kaarina_koski
 ---
   
 Omaisuuden jakautuminen tšekkiläisessä yhteiskunnassa lähestyy läntistä mallia. Siihen kuuluu köyhien ja rikkaiden ero sekä keskiluokka, joka pitää yhteiskuntaa vakaana.

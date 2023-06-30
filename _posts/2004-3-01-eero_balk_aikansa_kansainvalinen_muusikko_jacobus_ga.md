@@ -1,11 +1,12 @@
 ---
-title: Eero Balk Aikansa kansainvälinen muusikko Jacobus Gallus
+title: Aikansa kansainvälinen muusikko Jacobus Gallus
 layout: clanek
 date: 2004-3-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2004
 issue: 3
+author: eero_balk
 ---
   
 Slovenialainen säveltäjä loi uransa pääasiassa Määrissä ja Böömissä

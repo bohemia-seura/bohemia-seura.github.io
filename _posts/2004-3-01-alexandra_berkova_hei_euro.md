@@ -1,11 +1,13 @@
 ---
-title: Alexandra Berková Hei Eurooppa!
+title: Hei Eurooppa!
 layout: clanek
 date: 2004-3-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2004
 issue: 3
+author: alexandra_berkova
+translated: sampo_saari
 ---
   
 Suomi järkyttää minua jatkuvasti kahdella tapaa: puhtaus, rauha ja kalaruoat — ja samaan aikaan veljeyden tunne: nimittäin sellaisen suuren sukulaisuuden, joka on perhesideveljeyttä vahvempaa, kuten käsittää jokainen, jolla on veli… Kenties kyseessä on yhtäläinen elämäntunne maantieteellisestä etäisyydestämme huolimatta: jonkinlainen nostalgia, jonka pohjalla olevan pisaran katkeruutta voi liuottaa vain syleily, laulu tai votka; ainakin minun kokemukseni todistavat tämän, ja olenkin vakuuttunut, että jollei Leningrad Cowboys olisi syntynyt Suomessa, se olisi varmasti syntynyt Tšekissä — ja niinpä sanon mieluusti, että minun suomalaiseni ymmärtävät minua… 

@@ -6,6 +6,7 @@ category: bohemia
 tags: [fi]
 volume: 2004
 issue: 2
+author: eero_balk
 ---
   
 Kun Tšekki oli liittymässä Euroopan unioniin, maassa puhkesi huoli ”omista” perinteisistä ruokalajeista ja elintarvikkeista. EU:n hygieniamääräysten uskottiin tuhoavan mm. gulaššin, olutjuuston ja kuorettomat, marinaadissa säilytettävät utopenec-makkarat – kaikki ne kuuluvat erottamattomasti böömiläiseen oluttupaperinteeseen. Tulilinjalla oli myös ainut tšekkiläisperäinen juusto olomoucké tvarůžky, Olomoucin rahkajuusto. Loppujen lopuksi tvarůžkyt levittävät ominaishajuaan myös Euroopan unionissa. 

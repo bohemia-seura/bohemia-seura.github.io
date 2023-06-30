@@ -1,11 +1,12 @@
 ---
-title: Kaarina Koski Tarinoiden vuorella
+title: Tarinoiden vuorella
 layout: clanek
 date: 2004-2-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2004
 issue: 2
+author: kaarina_koski
 ---
   
 Iso Blaník-vuori eli Velký Blaník sijaitsee noin 70 kilometriä Prahasta kaakkoon. Se on metsäinen mäki, jonka huippu kohoaa 638 metriä merenpinnan yläpuolelle. Vierellä kohoaa pikkuveli Malý Blaník, ja kapea Blanice-joki kiemurtelee vuorten juurella halki peltojen ja metsien.

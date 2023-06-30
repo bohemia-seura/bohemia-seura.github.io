@@ -1,13 +1,15 @@
 ---
-title: Josef Vohryzek Rasismin anatomia
+title: Rasismin anatomia
 layout: clanek
-date: 2004-1-01 00:00:00 +0200
+date: 1994-01-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
-volume: 2004
+volume: 1994
 issue: 1
+author: josef_vohryzek
+translated: eero_balk
 ---
-  
+
 Rasismi on ruma sana. Rasismia ei kannata eikä puolusta kukaan. Rasismin torjunta sanoissa on meidän kaikkien kunnon ihmisten alibi. 
 Vastenmielisyys rasismia kohtaan on Tšekissä perua natsien kansanmurhasta. Se vei aiemmin yleisesti vallinneen antisemitismin niin raakoihin muotoihin, että maailma säikähti omaa itseään, teki pesäeron antisemitismista ja liitti sen kukistettuun natsismiin. Mutta tšekeille on tällä hetkellä todennäköisesti tärkeintä se, että länsi, joka selvitti välinsä rasismin ja šovinismin kanssa toisen maailmansodan jälkeen varsin tarmokkaasti, asettaa hyväksymisemme ehdoksi rodullisen tasa-arvon ja vähemmistöjen oikeuksien kunnioittamisen. Rasismin meissä herättämällä vastenmielisyydellä ja häpeällä ei siis ole vain moraalisia vaan myös tarkoitushakuisia vaikuttimia. Samalla unohdetaan, että lännessä on yleinen keskustelu rodullisen ja etnisen jännityksen syistä ja tavoista ymmärtää sitä verrattomasti meitä edellä. 
 Jälkeenjääneisyytemme rasismin vastustamisessa voi kostautua ilkeästi, ellemme tiedosta asian tärkeyttä. Kotimaassa rasismin vastustus on näet perin heikkoa ja se voi vahvistua ainoastaan niin, että päätämme sitä vahvistaa. Sanoin ja kuvin, sinnikkäästi ja kaikkialla. Se ei ole välttämätöntä vain nykyisen jännityksen lieventämiseksi vaan ehkä vielä enemmän sen lisääntymisen estämiseksi lähitulevaisuudessa. 

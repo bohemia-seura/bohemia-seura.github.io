@@ -1,11 +1,12 @@
 ---
-title: Kaarina Koski Tšekki hyväksyi samaa sukupuolta olevien parisuhdelain
+title: Tšekki hyväksyi samaa sukupuolta olevien parisuhdelain
 layout: clanek
 date: 2006-1-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2006
 issue: 1
+author: kaarina_koski
 ---
   
 Tšekki hyväksyi viime maaliskuussa lain samaa sukupuolta olevien henkilöiden parisuhteen rekisteröinnistä. Lain hyväksymistä edelsi kuitenkin pitkällinen poliittinen kädenvääntö, joka kiristi vakavasti lakia puoltaneen pääministeri Jiří Paroubekin ja sitä vastaan veto-oikeuttaan käyttäneen presidentti Václav Klausin välejä.

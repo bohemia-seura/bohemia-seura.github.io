@@ -1,11 +1,12 @@
 ---
-title: Jussi-Pekka Hakkarainen Sodan jälkeen Eurooppa ei ollut enää entisensä
+title: Sodan jälkeen Eurooppa ei ollut enää entisensä
 layout: clanek
 date: 2005-2-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2005
 issue: 2
+author: jussi_pekka_hakkarainen
 ---
   
 Toukokuun 9. päivänä tulee Prahan vapautumisesta kuluneeksi 60 vuotta. Miltä eurooppalainen Praha näytti seitsemän pitkän sodan vuoden jälkeen suomalaisen tarkkailijan silmin? Kirjailija, päätoimittaja, professori Matti Kurjensaari (1907–1988) vieraili Prahassa vuosina 1937 ja 1946. Kurjensaari oli kuvauksissaan loistava hetken vangitsija. Hänen teksteissään maailma jäsentyi ja avautui pienissä yksityiskohdissa. Hänen matkakirjeensä ovat havaintoja kahdesta erilaisesta Euroopasta.

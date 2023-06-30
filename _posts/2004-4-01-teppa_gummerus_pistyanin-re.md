@@ -12,13 +12,13 @@ issue: 4
  Pikkukaupungissa ei iltaisin riittänyt tekemistä. Rouva kykeni tappamaan jotenkuten aikaansa käsitöillä, ja niin herra keksi käsitöikseen kirjoittamaan kirjaa, josta hänen omien sanojensa mukaan tulisi hänen ”ensimmäinen ja varmastikin ainoa”. Kirjan julkaisi vuonna 1928 Arvi A. Kariston Osakeyhtiö.
 Henkilöt: Rouva, 46-vuotias (vaivana reumatismi ja paino 78 kg). Herra, 47-vuotias (vaiva iskias, paino 108 kg). Tytär, 18-vuotias (vaivana uteliaisuus, paino kevyt, polvella punnittuna). 
 Kertomuksen kirjoittaminen on minusta sangen vaikeata. Kun näet tulee mustaa valkoiselle ja vähän päin tai toisin liikaa, ei voi koskaan vastaisuudessa väittää, että ”enhän minä sitä ole niin sanonut”. Kaiken mahdollisen varalta ilmoitan, ettei tästä tule mikään raastuvanoikeuden pöytäkirja. Onpahan vain kertomus siitä, miltä muut maat meistä näyttivät ja mitä me siellä opimme muilta. 
-*** 
+
 Heti rajalla huomasi, että oli tullut uusi maa: likaisempaa, vilkkaampaa ja jollakin tavoin kuin ryssähtävää. Oluttakin kauppailivat pojat asemalla huutelemalla ”Pivooo, pivoooo!” Mutta meillä ei ollut millään tavoin aihetta minkään moittimiseen. Päinvastoin, meille oltiin erittäin ystävällisiä ja kohteliaita joka paikassa. 
-*** 
+
 Arveltiin siinä sitten vähän jotta pitäisiköhän käväistä Prahaa katselemassa, mutta kun Berliinissä oli jo mennyt niinkin monta päivää hukkaan ja kun Praha ei oikeastaan ole muuta kuin melkoinen kasa vanhempia ja uudempia taloja niiden välissä katuja ja toreja, joilla kaiketi on joitakin keisarinkuvia ja arvatenkin vielä jossakin kohden sen poltetun Jan Husin kuva, päätimme, että menköön Praha sielujemme ohi tällä kertaa. Mielikuvitukseemme jätimme siitä erittäin kauniin kuvan, jota emme hennonneet emmekä taida ollenkaan hennoa särkeä.   Aioimme yöpyä Pressburgissa, Pozsonyssä, Bratislavassa (kaupunki on yksi ja sama, käytettäköönpä siitä mitä tahansa näistä kolmesta eri nimestä). 
-*** 
+
 Hyvät saksalaiset kehoittivat meitä nousemaan junasta Brünn – Brnon asemalla ja sieltä käsin tekemään retken ”maailmankuuluille Määrin stalakiittiluolille”. Rupesimme tiedustelemaan, mitä ne olivat, ja meille selitettiin niiden olevan pimeitä maanalaisia käytäviä. Siihen vastasin, että me olemme lähteneet pimeää pakoon ja haluamme valoa, oikein polttavaa etelän aurinkoa, emmekä ole halukkaat näkemään mitään maailmankuuluisuuksia. Ja jos ne todellakin ovat pimeitä, näemme pimeää hyvin halvalla, melkein ilmaiseksi, joka yö. Mutta ne luolat kuuluivatkin olleen sähköllä valaistuja. Ja he sanoivat lisäksi, että Brnossa on hyvät hotellit, kun sitä vastoin Bratislavassa ne ovat viheliäiset ja niitäkin vähän. 
-***   ***   *** 
+
 Sattui sitten meille muuttama lomapäivä, ja rupesimme tuumimaan, miten ne parhaiten kuluttaisimme. Kovalla vaivalla sain Äidin suostumaan siihen, että lähtisimme Waagin tukkilauttojen mukana ajelehtimaan alas  ensin Komaromiiin ja siitä edelleen Tonavaa myöten Buda-Pestiin.  
 Kun lääkärimme, mainio tohtori Veres, oli määrännyt meille aurinkokylpyjä, arvelimme sitä saavamme yllinkyllin lautalla. 
 Tukonuittoa harjoitetaan Tonavan joissa siten, että puista sidotaan vitsaksilla hiemean päistään kapeneva pitkulainen ”ponttuu”, jolla on lautakatos majana ja jota ohjataan molemmista päistään niihin vitsoilla kiinnitetyillä kauhistuttavan pitkillä meloilla. Melana saattaa olla kokonainen kuusenrunkokin, joka on sopivasti pantu tasapainoon. Tonavan lautat muistuttavat siis sangen paljon Kemijoen lauttoja. Kumpikohan on ollut mestarina? 

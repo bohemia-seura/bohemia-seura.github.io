@@ -33,4 +33,6 @@ Liian pitkäksi kävisi erikseen puhua näistä monista juhlallisuuksista. Kerro
 Suuri sali oli kauniisti koristettu, naiset esiintyivät avokaulaisissa, vaaleissa, usein sangen kallisarvoisissa puvuissa ja jakelivat runsain käsin vieraille eläviä ruusuja. Soittoa tarjosi hyvä orkesteri, mieskvartetti lauloi, kuuluisan böhmiläisen viulukvartetin jäsen, herra Hoffmann, (joka helsinkiläisillekin on tuttu) soitti viulua ja pari solistia oopperasta esitti slaavilaisia lauluja. Illalliset olivat komeat, samppanja vuosi virtoina ja kutsujakansan rakastettavuus oli rajaton. Illallisten jälkeen tanssittiin (osittain samoja tansseja kuin meillä, joskin suuremmalla vilkkaudella ja notkeudella). Erittäin hauska oli tshekkiläinen kansallistanssi ”Beseda”. 
  Niin ovat nyt siis nämät juhlallisuudet, joihin kaikkiin meille suurella auliudella ja ystävällisyydellä oli annettu vapaat piletit, lopussa. 
 Kokonaisuudessaan tekee juhla suuremmoisen vaikutuksen. Se on ollut omiaan osoittamaan, mikä elinvoimainen, omaperäinen ja lahjakas kansa tshekin kansa on; mutta se on myöskin paljastanut varjopuolet tämän kansan kansallisuustaistelussa. Tarkoitan ennen kaikkia sitä palavaa rotuvihaa, joka täällä vallitsee saksalaisuutta vastaan ja joka tosin osaksi on selitettävissä, mutta jota ei siltä millään saata puolustaa. Mutta toiste siitä. 
-Pragissa 22/VI 98.Maila Talvio
+
+Pragissa 22/VI 98. 
+Maila Talvio

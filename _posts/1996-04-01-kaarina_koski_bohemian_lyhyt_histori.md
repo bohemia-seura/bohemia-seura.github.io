@@ -1,11 +1,12 @@
 ---
-title: Kaarina Koski Bohemian lyhyt historiikki
+title: Bohemian lyhyt historiikki
 layout: clanek
-date: 2004-1-01 00:00:00 +0200
+date: 1996-04-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
-volume: 2004
-issue: 1
+volume: 1996
+issue: 4
+author: kaarina_koski
 ---
   
 Bohemia-seura syntyi vuonna 1994. Perustajajäsenet olivat löytäneet toisensa Suomi-Tšekkoslovakia-seurassa, jonka jäsenlehteä he olivat viimeisinä vuosina toimittaneet. Kun Suomi-Tšekkoslovakia-seura lopetti toimintansa, hyvin alkanutta yhteistyötä haluttiin kuitenkin jatkaa. Perustettiin oma yhdistys.

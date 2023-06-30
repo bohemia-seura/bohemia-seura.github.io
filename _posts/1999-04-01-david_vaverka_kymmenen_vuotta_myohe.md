@@ -1,11 +1,12 @@
 ---
-title: David Vaverka Kymmenen vuotta myöhemmin
+title: Kymmenen vuotta myöhemmin
 layout: clanek
-date: 2004-1-01 00:00:00 +0200
+date: 1999-04-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
-volume: 2004
-issue: 1
+volume: 1999
+issue: 4
+author: david_vaverka
 ---
   
 Kymmenen vuotta sitten Tšekkoslovakian kaupunkien aukiot täyttyivät väkijoukoista, jotka avaimia helistellen juhlivat uuden ajan alkamista. Ihmiset uskoivat, että opiskelijoiden aloitteesta syntynyt vallankumous tuo mukanaan oikeudenmukaisuuden, todellisen demokratian ja korkean moraalin. Kansalaisliikkeen johtava hahmo ja tuleva presidentti Václav Havel vakuutti kansalle, että totuus ja rakkaus voittavat valheen ja vihan. Vanha sortuva järjestelmä kaatui sametinpehmeästi ja iloitseva kansa sai käsityksen, että kaikki maailman kansat voisivat ottaa siitä oppia. Ja mikseivät ottaisi? Ainutlaatuisen väkivallattoman vallankumouksen jälkeenkin kaikki näytti hyvältä. Presidentti maaiaili Kesäinen mietiskely -esseessään käsityksensä valtiosta kymmenen vuoden kuluttua. Siitä piti tulla jonkinlainen Onnela, kukoistava kansalaisvaltio, jossa kaikki toimii oikein ja oikeudenmukaisesti, ihmiset ovat rehellisiä, kunnioittavat toisiaan ja muodostavat ystävällismielisiä, miltei idyllisiä yhteisöjä, joissa ”jokaisella kadulla on vähintään kaksi leipomoa, kaksi konditoriaa ja paljon pieniä puoteja”. 

@@ -1,11 +1,13 @@
 ---
-title: Stefan Tsanev Marian tarina
+title: Marian tarina
 layout: clanek
 date: 2006-3-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2006
 issue: 3
+author: stefan_tsanev
+translated: eero_suvilehto
 ---
   
 Hierarkia

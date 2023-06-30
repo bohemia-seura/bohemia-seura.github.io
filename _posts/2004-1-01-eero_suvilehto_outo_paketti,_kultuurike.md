@@ -1,11 +1,12 @@
 ---
-title: Eero Suvilehto Outo paketti, Kultuurikeskus
+title: Outo paketti, Kultuurikeskus
 layout: clanek
 date: 2004-1-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2004
 issue: 1
+author: eero_suvilehto
 ---
 paketti
 Kun Franz Kafka näki paketin, hän hämmentyi. Meni Prahan keskuspostissa aivan tolaltaan, sillä lähetys tuli tästä maailmasta. 

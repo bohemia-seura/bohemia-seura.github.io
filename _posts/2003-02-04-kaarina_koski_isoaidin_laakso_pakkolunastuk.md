@@ -1,7 +1,7 @@
 ---
 title: Kaarina Koski Isoäidin laakso pakkolunastukseen
 layout: clanek
-date: 2003-2-3-01 00:00:00 +0200
+date: 2003-02-04 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2003

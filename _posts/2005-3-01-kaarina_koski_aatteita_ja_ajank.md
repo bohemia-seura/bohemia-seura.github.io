@@ -1,11 +1,12 @@
 ---
-title: Kaarina Koski Aatteita ja ajankuvaa
+title: Aatteita ja ajankuvaa
 layout: clanek
 date: 2005-3-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2005
 issue: 3
+author: kaarina_koski
 ---
   
 Kertooko realistinen romaani historiasta?Tunnetuimpia romanttisen realismin edustajia tšekkiläisessä kirjallisuudessa ovat olleet Alois Jirásek ja Božena Němcová. Kumpikin kuvasi oman vuosisatansa ihmisiä ja elämää ja sai hyvin laajan lukijakunnan. Mutta kuinka realistisina tätä tyylisuuntaa edustavia romaaneja voidaan pitää? Ovatko ne ennen kaikkea fiktiota, vai kertovatko ne, millaista elämä todella oli?

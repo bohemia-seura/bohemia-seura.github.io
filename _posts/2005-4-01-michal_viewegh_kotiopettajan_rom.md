@@ -6,6 +6,7 @@ category: bohemia
 tags: [fi]
 volume: 2005
 issue: 4
+author: kaarina_koski
 ---
   
 Like, 2004. Suom. Nina Saikkonen. Michal Viewegh on yksi Tšekin suosituimpia nykykirjailijoita. Hänen tyylilleen on ominaista itseironia ja hämmentävä omaelämäkerrallisuus, joka jättää lukijan arvailemaan, mikä lopulta on totta ja mikä ei. Postmoderniin tapaan kirjailija myös kommentoi tekstissään itseään ja kirjailijana tekemiään valintoja. Samalla hän osoittaa sanansa kriitikoille, jotka ovat alkuinnostuksen jälkeen alkaneet epäillä hänen kirjailijanuraansa pelkäksi huiputukseksi.

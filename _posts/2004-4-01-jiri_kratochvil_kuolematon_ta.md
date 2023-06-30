@@ -1,11 +1,13 @@
 ---
-title: Jiří Kratochvil Kuolematon tarina
+title: Kuolematon tarina
 layout: clanek
 date: 2004-4-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2004
 issue: 4
+author: jiri_kratochvil
+translated: eero_balk
 ---
   
 Tuottelias määriläinen kirjailija Jiří Kratochvil jätti 2000-luvun alussa taakseen viittauksia täynnä olevan postmodernin kirjoittamisen ja siirtyi realistisempaan suuntaan. Yksi hänen herkullisimpia postmoderneja romaanejaan on vuonna 1997 ilmestynyt Nesmrtelný příběh (Kuolematon tarina). Jo yksin sen alaotsikko kertoo paljon: Sonja Trotski-Sammlerin elämä eli karnevaaliromaani. 

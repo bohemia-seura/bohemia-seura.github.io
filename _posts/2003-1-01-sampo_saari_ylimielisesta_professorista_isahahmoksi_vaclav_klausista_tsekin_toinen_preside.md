@@ -1,11 +1,12 @@
 ---
-title: Sampo Saari Ylimielisestä professorista isähahmoksi Václav Klausista Tšekin toinen presidentti
+title: Ylimielisestä professorista isähahmoksi Václav Klausista Tšekin toinen presidentti
 layout: clanek
 date: 2003-1-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2003
 issue: 1
+author: sampo_saari
 ---
   
 Tšekin parlamentti onnistui lopulta valitsemaan tasavallalle uuden päämiehen presidentinvaalin kolmannella kierroksella 28. helmikuuta 2003. Demokraattisen kansalaispuolueen (ODS) mahtimiehestä, ex-pääministeristä ja ex-puhemiehestä Václav Klausista tuli virallisesti presidentti Václav Havelin seuraaja Prahan linnan valtiaana 7.3.2003.  On aika luoda katsaus Klausin värikkääseen poliittiseen uraan kommunisminjälkeisessä Tšekissä.

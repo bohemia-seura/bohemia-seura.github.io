@@ -1,11 +1,12 @@
 ---
-title: Eero Balk Eksoottinen itänaapuri saksalaisessa elokuvassa
+title: Eksoottinen itänaapuri saksalaisessa elokuvassa
 layout: clanek
 date: 2006-2-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2006
 issue: 2
+author: eero_balk
 ---
   
 Tšekit ja Praha ovat olleet jo vuosisatoja saksalaisen kirjallisuuden teemoina – kuuluihan Böömin kuningaskunta alusta alkaen suureen saksalaiseen valtioon, Pyhään saksalais-roomalaiseen keisarikuntaan. Romantismin aikakaudella Böömi ja tšekit edustivat monelle saksalaiselle kirjailijalle jonkinlaista pilaantumatonta ”esisaksalaisuutta” hieman samaan tyyliin kuin Karjala ja karjalaiset Suomessa. Myös saksalainen elokuva on käyttänyt Prahaa ja Böömin ja Määrin maaseutua kiitollisena kulissina ja ottanut joskus tšekit jopa aiheekseen. Usein elokuvilla oli muitakin kuin puhtaasti taiteellisia tavoitteita, eivätkä kaikki niiden tekijät ole olleet mitään tšekkien ystäviä. Saksalaisia ”tšekkielokuvia” on paljon; seuraavassa esitellään niistä neljä.Kauppoja paholaisen kanssa

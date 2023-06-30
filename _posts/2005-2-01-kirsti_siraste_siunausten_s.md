@@ -1,11 +1,12 @@
 ---
-title: Kirsti Siraste Siunausten silta
+title: Siunausten silta
 layout: clanek
 date: 2005-2-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2005
 issue: 2
+author: kirsti_siraste
 ---
   
 Suuri elämänmuutos osui kohdalleni 1970-luvun lopulla. Milan Kunderan Elämä on toisaalla -romaanin suomennoksen tuottama valtionpalkinto mahdollisti Villa Sudan synnyn lapsuuden Kymenlaaksoon, Sippolan aina kauniisiin maisemiin. Pyhän isän runo- ja mietevalikoiman työstäminen ensimmäisenä tehtävänä uuden ympäristön rauhassa syksyllä 1979 rakensi neljännesvuosisataisen siunausten sillan Vatikaanista jättikuusen suojaamaan keltaiseen puutaloon. Lähteelle on vielä matkaa

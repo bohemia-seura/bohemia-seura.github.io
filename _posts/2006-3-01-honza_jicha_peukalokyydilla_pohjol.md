@@ -1,13 +1,14 @@
 ---
-title: Honza Jícha Peukalokyydillä pohjolassa
+title: Peukalokyydillä pohjolassa
 layout: clanek
 date: 2006-3-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2006
 issue: 3
+author: honza_jicha
 ---
-  osa 2/3 
+osa 2/3 
 Opiskelija, runoilija Honza Jícha (1980) kiersi Pohjois-Eurooppaa liftaamalla kesällä 2000. Hän piti reissullaan päiväkirjaa, joka julkaistiin 2001 aikakauslehti Tvarin liitteenä nimellä Po severu s palcem vzhůru. Bohemia julkaisee kirjoituksen Suomea käsittelevän osuuden Sampo Saaren suomentamana.
 11. päivä
 Aamulla oli sadekuuro, mutta pysyin kuivana, puutarhamaja piti yllättävän hyvin vettä. Isäntä avaa kahdeksalta, tulen keittiöön ja puhelemme Suomen historiasta. Aikanaan lapsenlapset heräävät ja isäntä laittaa liedelle kaksi puurovesikattilaa (kummallakin tytöllä on kuulemma eri lempimaku), vartin kuluttua hän kaataa veden pois toisesta kattilasta ja hänen vaimonsa toisesta, koska niissä pitikin olla maitoa. Minua asia ei hetkauta ja kuuman puurolautasen ääressä minua ei häiritse kovin paljon edes se, että Venäjä anasti vääryydellä suuren osan Karjalaa. Siistiydyn hiukan kylpyhuoneessa (”Olisiko teillä partavaahtoa? Ajoin partani viimeksi Virossa…”), saan evääksi tomaatin, kurkun ja puurohiutaleita ja painelen linnoitukseen. Savonlinnaan en seilaa, koska pariin vuoteen sinne ei seilaa enää mikään, mutta kunhan liftaan Punkaharjulle, niin sieltä lähtee laiva yhdeltä. 

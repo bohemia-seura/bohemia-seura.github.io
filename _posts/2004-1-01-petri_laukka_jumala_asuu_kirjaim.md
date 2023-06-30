@@ -1,11 +1,12 @@
 ---
-title: Petri Laukka Jumala asuu kirjaimessa
+title: Jumala asuu kirjaimessa
 layout: clanek
 date: 2004-1-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2004
 issue: 1
+author: petri_laukka
 ---
   
 Joku oli tehnyt ilmiannon. Tššekkiläinen kirjailija Jaromír Hladík tempaistaan eräänä maaliskuisena iltana kotoaan Vanhan kaupungin Celetnálta ja viedään puhtautta uhoavaan virastoon Vltavan toiselle rannalle. Tämä oli ollut arvattavissa. Muutama päivä aiemmin Prahan kaduilta oli ruvennut kantautumaan outo jyminä. Tahdikas saappaankopina ja vahvat komentoäänet. Saksalaiset. 

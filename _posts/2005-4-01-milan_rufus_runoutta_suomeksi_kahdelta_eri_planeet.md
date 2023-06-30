@@ -1,11 +1,12 @@
 ---
-title: Milan Rúfus Runoutta suomeksi kahdelta eri planeetalta
+title: Runoutta suomeksi kahdelta eri planeetalta
 layout: clanek
 date: 2005-4-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2005
 issue: 4
+author: milan_rufus
 ---
   
 Suomalainen lukija voi valitettavan harvoin tutustua länsislaavilaiseen runouteen äidinkielellään – viime vuosina merkittävä poikkeus on ollut vain puolalainen nobelisti Wisława Szymborska, jonka tuotantoa on ilmestynyt eri suomentajien välittämänä useissa niteissä. Vuonna 2005 on kuitenkin ilmestynyt suomeksi kaksi pientä runoteosta merkittäviltä runoilijoilta, slovakialaiselta Milan Rúfusilta ja tšekkiläiseltä Jiří Kolářilta.
@@ -16,4 +17,4 @@ Siinä missä Rúfus puhuu lapsen ja jumalan hengellisestä suhteesta, Kolář j
 Kolářin vuonna 1938 kirjoittamien kolmen tekstin luokittelu erotiikaksi ei ole yhtä ongelmatonta. Yhdyntää teksteissä joka tapauksessa käsitellään ja sen avulla yhtä lailla himoa kuin sitä, mitä kutsutaan rakkaudeksi. Avantgardisti Kolář nauraa sovinnaisuudelle kaataessaan raja-aitoja erotiikan ja pornografian, kiihottavan ja kuvottavan välillä.  
 Hatunnosto suomentajille ja Likelle siitä, että tekstit on saatu näinkin pian täydentämään kuvaa Kolářista ja ylipäätään tšekkiläisestä sotaa edeltäneestä kulttuurista – Tšekissäkin nämä tekstit palasivat yleiseen tietoisuuteen vasta tekijän kuolinvuonna 2002. 
 Sampo Saari 
- Milan Rúfus: Pienet rukoukset. Kampus Kustannus: Jyväskylä 2005. 45 s. ISBN 951-9113-78-9 Jako sklenka čisté vody – Kuin lasi puhdasta vettä. Runot Jiří Kolář, piirustukset Petr Řehoř. Suomennos: Eero Balk, David Vaverka. 
+Milan Rúfus: Pienet rukoukset. Kampus Kustannus: Jyväskylä 2005. 45 s. ISBN 951-9113-78-9 Jako sklenka čisté vody – Kuin lasi puhdasta vettä. Runot Jiří Kolář, piirustukset Petr Řehoř. Suomennos: Eero Balk, David Vaverka. 

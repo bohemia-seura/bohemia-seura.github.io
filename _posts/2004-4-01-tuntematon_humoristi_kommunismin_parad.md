@@ -6,6 +6,7 @@ category: bohemia
 tags: [fi]
 volume: 2004
 issue: 4
+translated: eero_balk
 ---
   
 1. Kaikilla on työtä. 

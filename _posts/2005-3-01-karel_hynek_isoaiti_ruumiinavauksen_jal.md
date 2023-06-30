@@ -6,6 +6,7 @@ category: bohemia
 tags: [fi]
 volume: 2005
 issue: 3
+translated: eero_balk
 ---
   
 Tänä vuonna tulee kuluneeksi 150 vuotta Božena Němcován romaanin Babička (Isoäiti) ilmestymisestä. Isoäidistä tuli nopeasti klassikko, ja Němcován kerronta – jossa ei oikeastaan tapahdu mitään – sai paljon seuraajia ja oli tavallaan sellaistenkin nykykirjailijoiden kuin Bohumil Hrabalin tuotannon taustalla. 

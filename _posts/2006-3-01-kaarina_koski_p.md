@@ -1,11 +1,12 @@
 ---
-title: Kaarina Koski Praha
+title: Praha
 layout: clanek
 date: 2006-3-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2006
 issue: 3
+author: kaarina_koski
 ---
   
 Praha on noussut yhdeksi maailman elokuvatuotannon keskuksista, ja sitä on luonnehdittu jopa Euroopan Hollywoodiksi. Suuret filmiyhtiöt ovat löytäneet paitsi Tšekin upeat maisemat ja arkkitehtuurin, myös Barrandovin studiot, jotka tarjoavat ammattitaitoista yhteistyötä edullisemmin kuin länsieurooppalaiset tai amerikkalaiset kilpailijansa.

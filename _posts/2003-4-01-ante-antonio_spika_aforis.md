@@ -1,11 +1,13 @@
 ---
-title: Ante-Antonio Špika Aforismeja
+title: Aforismeja
 layout: clanek
 date: 2003-4-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2003
 issue: 4
+author: ante_antonio_sipka
+translated: eero_suvilehto
 ---
   
 Seuraus ei kestä ilman syytä. 

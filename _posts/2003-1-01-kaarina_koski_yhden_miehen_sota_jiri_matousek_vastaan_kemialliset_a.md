@@ -1,11 +1,12 @@
 ---
-title: Kaarina Koski Yhden miehen sota. Jiří Matoušek vastaan kemialliset aseet
+title: Yhden miehen sota. Jiří Matoušek vastaan kemialliset aseet
 layout: clanek
 date: 2003-1-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2003
 issue: 1
+author: kaarina_koski
 ---
   
 Kansainvälinen kemiallisen aseen kieltosopimus kieltää periaatteessa kaikkien kemiallisten aseiden valmistamisen, varastoinnin ja käytön. Käytännössä suurvallat kuitenkin jatkavat uusien kemiallisten aseiden kehittämistä. Tšekkiläisen joukkotuhoaseiden asiantuntijan Jiří Matoušekin aloitteet totaalikiellon saavuttamiseksi kaikuvat kuuroille korville.

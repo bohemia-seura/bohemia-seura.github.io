@@ -1,11 +1,12 @@
 ---
-title: Eero Balk Vuosisadan sensaatio huutokaupattiin Pariisissa Dalimilin tšekkikronikasta löytyi latinannos
+title: Vuosisadan sensaatio huutokaupattiin Pariisissa Dalimilin tšekkikronikasta löytyi latinannos
 layout: clanek
 date: 2005-2-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2005
 issue: 2
+author: eero_balk
 ---
   
 Muuan nimettömänä pysyttelevä pariisilaissuku sai aikaan sensaation suostuttuaan tarjoamaan pölyttyneitä pergamenttejaan huutokauppaan. 24-sivuinen kanneton käsikirjoitus osoittautui vanhimman tšekinkielisen historiallisen kronikan, ns. Dalimilin kronikan kömpelösti käännetyksi mutta ylenpalttisesti kuvitetuksi latinannokseksi. Kaiken kukkuraksi se on arviolta vain 30 vuotta alkutekstiä nuorempi ja sen on tilannut joko kuningas Juhana Luxemburg tai hänen poikansa keisari Kaarle IV.

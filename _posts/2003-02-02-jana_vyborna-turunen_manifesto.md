@@ -1,7 +1,7 @@
 ---
 title: Jana Výborná-Turunen Manifesto 003
 layout: clanek
-date: 2003-2-3-01 00:00:00 +0200
+date: 2003-02-02 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2003

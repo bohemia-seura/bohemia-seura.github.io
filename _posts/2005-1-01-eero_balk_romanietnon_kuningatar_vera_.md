@@ -1,11 +1,12 @@
 ---
-title: Eero Balk Romanietnon kuningatar Věra Bílá
+title: Romanietnon kuningatar Věra Bílá
 layout: clanek
 date: 2005-1-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2005
 issue: 1
+author: eero_balk
 ---
   
 Tšekissä on kaksi laulavaa Bíláa, romaneja kumpikin. Toisen nimi on keksitty, hän on kaunis ja hoikka, palvoo presidentti Klausia, vatvoo miesjuttunsa mieluiten julkisuudessa, laulaa musikaaleissa ja voittaa vuosi kuin vuosi vääjäämättä kevyen musiikin Kultaisen satakielen. Hän on Lucie Bílá. Kuin Mahalia Jackson Michael Jacksonista eroaa hänestä Věra Bílá, nyt jo toistamiseen Suomeen saapuva romanipopin kuningatar. Hän esiintyy Kale-yhtyeensä kanssa Savoy-teatterissa Helsingissä huhtikuussa.

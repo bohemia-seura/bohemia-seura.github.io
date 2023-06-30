@@ -1,11 +1,12 @@
 ---
-title: Eero Balk Olomouc
+title: Olomouc
 layout: clanek
 date: 2005-3-01 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2005
 issue: 3
+author: eero_balk
 ---
   
 Ensimmäinen suomen kielioppi on kirjoitettu ainakin osaksi Määrin Olomoucissa. Se oli latinankielinen eikä sitä ole tiettävästi koskaan julkaistu. Sen käsikirjoituskin on kadonnut, mutta siitä on säilynyt ruotsinnos Helsingin yliopiston kirjastossa.

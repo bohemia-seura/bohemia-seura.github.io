@@ -1,7 +1,7 @@
 ---
 title: Prahan metro avataan kokonaan maaliskuussa
 layout: clanek
-date: 2002-3–4-01 00:00:00 +0200
+date: 2002-03-03 00:00:00 +0200
 category: bohemia
 tags: [fi]
 volume: 2002

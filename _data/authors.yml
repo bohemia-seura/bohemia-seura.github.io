@@ -6,18 +6,22 @@ petr_hradil:
 
 eero_balk:
   name: Eero Balk
+  url: https://fi.wikipedia.org/wiki/Eero_Balk
 
 lubor_kasal:
   name: Lubor Kasal
+  url: https://cs.wikipedia.org/wiki/Lubor_Kasal
 
 milena_jesenska:
   name: Milena Jesenská
+  url: https://cs.wikipedia.org/wiki/Milena_Jesensk%C3%A1
 
 peter_lodenius:
   name: Peter Lodenius
 
 maila_talvio:
   name: Maila Talvio
+  url: https://fi.wikipedia.org/wiki/Maila_Talvio
 
 ernst_abenteuer:
   name: Ernst Abenteuer
@@ -30,3 +34,63 @@ jan_skacel:
 
 vlasta_hochelova:
   name: Vlasta Hochelová
+
+honza_jicha:
+  name: Honza Jícha
+
+stefan_tsanev:
+  name: Stefan Tsanev
+
+eero_suvilehto:
+  name: Eero Suvilehto
+
+tiina_vainomaki:
+  name: Tiina Vainomäki
+
+jussi_pekka_hakkarainen:
+  name: Jussi-Pekka Hakkarainen
+
+milan_rufus:
+  name: Milan Rúfus
+
+petr_rehor:
+  name: Petr Řehoř
+
+kirsti_siraste:
+  name: Kirsti Siraste
+
+jiri_kratochvil:
+  name: Jiří Kratochvil
+
+sampo_saari:
+  name: Sampo Saari
+
+petri_laukka:
+  name: Petri Laukka
+
+josef_vohryzek:
+  name: Josef Vohryzek
+
+eva_martinkova:
+  name: Eva Martinková
+
+david_vaverka:
+  name: David Vaverka
+
+ante_antonio_sipka:
+  name: Ante-Antonio Špika
+
+nina_saikkonen:
+  name: Nina Saikkonen
+
+petr_helbich:
+  name: Petr Helbich
+
+kocour:
+  name: Jyrki Kulmala
+
+ilona_balko:
+  name: Ilona Balkó
+
+magdalena_kosova:
+  name: Magdalena Kosová
