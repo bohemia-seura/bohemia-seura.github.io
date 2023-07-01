@@ -6,6 +6,7 @@ category: bohemia
 tags: [cz] # TAG names should always be lowercase
 volume: 2008
 issue: 1
+author: marketa_hejkalova
 ---
 
 Waltariho evropské putování zakončeme netradičně v Česku. Mika Waltari naši zemi, konkrétně Prahu, navštívil jenom jednou, a nezanechala v něm nejlepší dojem, jak svědčí následující ukázka z knihy Vlak osamělého muže.

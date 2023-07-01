@@ -6,7 +6,7 @@ category: bohemia
 tags: [fi]
 volume: 2003
 issue: 4
-author: ante_antonio_sipka
+author: ante_antonio_spika
 translated: eero_suvilehto
 ---
   

@@ -48,7 +48,7 @@ refactor: true
   {% if events %}
     <h2>{{ site.data.locales[lang].post.calendar }}</h2>
     {% for event in events %}
-      <p>{{ event.date }} {{ event.name[lang] }}</p>
+      <p>{{ event.date | date: "%d.%m.%Y" }} {{ event.name[lang] }}</p>
     {% endfor %}
   {% endif %}
 {% endif %}

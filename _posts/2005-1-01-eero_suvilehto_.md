@@ -9,5 +9,10 @@ issue: 1
 author: eero_suvilehto
 ---
   
-Lauloi mustarastas Kaarlen sillalla,kottarainen Kosovosta,kun kukki omenapuu.Laula mitä laulat musta lintu,mutta mitään älä ennusta. 
+Lauloi mustarastas Kaarlen sillalla,  
+kottarainen Kosovosta,  
+kun kukki omenapuu.  
+Laula mitä laulat musta lintu,  
+mutta mitään älä ennusta.  
+
 Eero Suvilehto 
