@@ -19,3 +19,10 @@ layout: page
     {% endfor %}
   </ul>
 </div>
+
+<h2>{{ site.data.locales[lang].post.calendar }}</h2>
+{% assign events = site.data.events | reverse %}
+{% for event in events %}
+  <p>{{ event.date | date: "%d.%m.%Y" }} - {{ event.name[lang] }}</p>
+{% endfor %}
+
