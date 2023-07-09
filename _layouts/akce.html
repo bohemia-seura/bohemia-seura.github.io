@@ -24,9 +24,14 @@ refactor: true
           {% assign thumbnail = thumb %}
         {% endif %}
       {% endfor %}
+      {% if image.title %}
+        {% assign title = image.title %}
+      {% else %}
+        {% assign title = page.title %}
+      {% endif %}
       <div class="box">
         <a href="{{ page.image_path }}{{ image.image }}">
-          <img src="{{ thumbnail }}" alt="{{ image.title}}"  class="img-gallery" />
+          <img src="{{ thumbnail }}" alt="{{ title }}"  class="img-gallery" />
         </a>
       </div>
     {% endfor %}
@@ -34,22 +39,26 @@ refactor: true
 {% endif %}
 
 {% if page.event %}
-  {% for event in site.data.events %}
-    {% for category in event.categories %}
-      {% if category == page.event %}
-        {% if events %}
-        {% else %}
-          {% assign events = "" | split: "," %}
+  <div id="kalendar" class="pl-xl-3">
+    <ul class="list-unstyled">
+    {% for event in site.data.events %}
+      {% for category in event.categories %}
+        {% if category == page.event %}
+          {% if events %}
+          {% else %}
+            {% assign events = "" | split: "," %}
+          {% endif %}
+          {% assign events = events | push: event %}
         {% endif %}
-        {% assign events = events | push: event %}
-      {% endif %}
+      {% endfor %}
     {% endfor %}
-  {% endfor %}
-  {% if events %}
-  {% assign events = events | reverse %}
-    <h2>{{ site.data.locales[lang].post.calendar }}</h2>
-    {% for event in events %}
-      <p>{{ event.date | date: "%d.%m.%Y" }} - {{ event.name[lang] }}</p>
-    {% endfor %}
-  {% endif %}
+    {% if events %}
+    {% assign events = events | reverse %}
+      <h2>{{ site.data.locales[lang].post.calendar }}</h2>
+      {% for event in events %}
+        <li>{{ event.date | date: "%d.%m.%Y" }} - {{ event.name[lang] }}</li>
+      {% endfor %}
+    {% endif %}
+    </ul>
+  </div>
 {% endif %}

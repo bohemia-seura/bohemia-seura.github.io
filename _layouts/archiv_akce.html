@@ -20,9 +20,40 @@ layout: page
   </ul>
 </div>
 
-<h2>{{ site.data.locales[lang].post.calendar }}</h2>
-{% assign events = site.data.events | reverse %}
-{% for event in events %}
-  <p>{{ event.date | date: "%d.%m.%Y" }} - {{ event.name[lang] }}</p>
-{% endfor %}
+<h1>{{ site.data.locales[lang].post.calendar }}</h1>
 
+<div id="kalendar" class="pl-xl-3">
+
+  {% assign last_year = 0 %}
+  {% assign events = site.data.events | reverse %}
+  {% for event in events %}
+    {% capture cur_year %}{{ event.date | date: "%Y" }}{% endcapture %}
+
+    {% if cur_year != last_year %}
+        {% unless last_year == 0 %}</ul>{% endunless %}
+        <div class="year lead">{{ cur_year }}</div>
+        <ul class="list-unstyled">
+        {% assign last_year = cur_year %}
+    {% endif %}
+    
+    {% if event.url %}
+      {% assign url = event.url %}
+    {% elsif event.categories %}
+      {% for post in site.posts %}
+        {% if post.categories[0] == page.category %}
+          {% if post.event == event.categories[0] %}
+            {% assign url = post.url %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}        
+    {% endif %}
+    
+    {% if url %}
+      <li><a href="{{ url }}">{{ event.date | date: "%d.%m.%Y" }} - {{ event.name[lang] }}</a></li>
+    {% else %}
+      <li>{{ event.date | date: "%d.%m.%Y" }} - {{ event.name[lang] }}</li>
+    {% endif %}
+    {% if forloop.last %}</ul>{% endif %}
+  {% endfor %}
+  
+</div>

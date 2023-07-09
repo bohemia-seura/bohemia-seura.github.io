@@ -10,11 +10,7 @@ images:
   - image: LampionovyPruvod2021-001.jpeg
     title: Lampionový průvod
   - image: LampionovyPruvod2021-002.jpeg
-    title: Lampionový průvod
   - image: LampionovyPruvod2021-003.jpeg
-    title: Lampionový průvod
   - image: LampionovyPruvod2021-004.jpeg
-    title: Lampionový průvod
   - image: LampionovyPruvod2021-005.jpeg
-    title: Lampionový průvod
 ---

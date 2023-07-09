@@ -10,7 +10,5 @@ images:
   - image: Promitani2023-001.jpg
     title: Promítání
   - image: Promitani2022-001.jpg
-    title: Promítání
   - image: Promitani2019-001.jpg
-    title: Promítání
 ---
