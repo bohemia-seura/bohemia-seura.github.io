@@ -4,6 +4,13 @@
   categories:
     - pikkulas
 
+- date: 2019-03-30
+  name:
+    cs: Koncert české a slovenské lidové hudby
+  place: Pasilan kirjasto
+  categories:
+    - koncert
+
 - date: 2019-08-24
   name:
     cs: Výlet do Nuuksia
@@ -51,6 +58,7 @@
     fi: 30 vuotta samettia
   categories:
     - beseda
+    - promitani
 
 - date: 2019-11-23
   name:
@@ -149,6 +157,7 @@
   place: Tapiolan Jääpuisto, Espoo
   categories:
     - pohadkova_sobota
+    - zima
 
 - date: 2021-01-16
   name:
@@ -157,6 +166,16 @@
   place: Kaivopuiston tähtitorni, Helsinki
   categories:
     - pohadkova_sobota
+    - zima
+
+- date: 2021-01-30
+  name:
+    cs: Hrajeme hokej!
+    sk: Hráme hokej!
+  place: Brahenkenttä, helsinginkatu 25A, Helsinki
+  categories:
+    - sportovni_den
+    - zima
 
 - date: 2021-02-13
   name: 
@@ -180,6 +199,7 @@
     cs: Antidepresivní česko-finský večírek s Janem Burianem
   categories:
     - beseda
+    - koncert
 
 - date: 2021-04-28
   name:
@@ -270,6 +290,7 @@
     sk: Rozprávková sobota - predvianočné korčuľovanie
   categories:
     - pohadkova_sobota
+    - zima
 
 - date: 2022-03-12
   name:
@@ -277,6 +298,7 @@
     sk: Rozprávková sobota - novoročná sánkovačka
   categories:
     - pohadkova_sobota
+    - zima
 
 - date: 2022-03-12
   name:
@@ -295,6 +317,9 @@
 - date: 2022-04-10
   name:
     cs: Velikonoční setkání rodin krajanů
+  categories:
+    - velikonoce
+    - diskuze
 
 - date: 2022-04-23
   name:
@@ -334,6 +359,14 @@
 - date: 2022-08-13
   name:
     cs: Češi a Slováci ve Finsku - výlet do Tampere
+  categories:
+    - vylet
+
+- date: 2022-09-22
+  name:
+    cs: Promítání filmu Zátopek
+  categories:
+    - promitani
 
 - date: 2022-10-09
   name:
@@ -369,7 +402,8 @@
     cs: Pohádková neděle - vánoční tvoření
     sk: Nedeľné stretnutie s krajanmi - vianočné tvorenie
   categories:
-    - pohadkova_sobota  
+    - pohadkova_sobota
+    - vanoce
 
 - date: 2023-02-11
   name:
@@ -388,6 +422,16 @@
 - date: 2023-04-01
   name:
     cs: Velikonoční setkání rodin krajanů
+  categories:
+    - velikonoce
+
+- date: 2023-04-13
+  name:
+    cs: Promítání filmu Piargy
+  place: K13
+  categories:
+    - promitani
+
 - date: 2023-04-15
   name:
     cs: Pohádková sobota
