@@ -45,8 +45,15 @@
 
       <!-- the real tabs -->
       {% for tab in site.tabs %}
+        {% if tab.layout == "categories" %}
+          {% assign l_url = "" %}
+        {% elsif tab.layout == "tags" %}
+          {% assign l_url = "" %}
+        {% else %}
+          {% assign l_url = lang_url %}
+        {% endif %}
         <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
-          <a href="{{ site.baseurl_root }}{{ lang_url }}{{ tab.url }}" class="nav-link">
+          <a href="{{ site.baseurl_root }}{{ l_url }}{{ tab.url }}" class="nav-link">
             <i class="fa-fw {{ tab.icon }}"></i>
             {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
   
