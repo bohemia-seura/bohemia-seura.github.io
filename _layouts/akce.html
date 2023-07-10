@@ -5,35 +5,36 @@ refactor: true
 
 {% include lang.html %}
 
-<h1 data-toc-skip>{{ page.title }}</h1>
+{% assign title = site.translations[site.lang].events[page.event] %}
+<h1 data-toc-skip>{{ title }}</h1>
 
 <div class="post-content">
   {{ content }}
 </div>
 
 {% if page.event %}
-  {% assign photos = site.data.event_photos[page.event] %}
-  {% if photos.images %}
+  {% assign event = site.data.event_data[page.event] %}
+  {% if event.images %}
     <h2>{{ site.data.locales[lang].post.gallery }}</h2>
     <div class ="image-gallery">
-      {% for image in photos.images %}
-        {% assign thumb = photos.image_path | append: image.image | replace: '.jpg', '_t.jpg' %}
+      {% for image in event.images %}
+        {% assign thumb = event.image_path | append: image.image | replace: '.jpg', '_t.jpg' %}
         {% assign thumb = thumb | replace: '.png', '_t.jpg' %}
         {% assign thumb = thumb | replace: '.jpeg', '_t.jpg' %}
-        {% assign thumbnail = photos.image_path | append: image.image %}
+        {% assign thumbnail = event.image_path | append: image.image %}
         {% for static_file in site.static_files %}
           {% if static_file.path == thumb %}
             {% assign thumbnail = thumb %}
           {% endif %}
         {% endfor %}
         {% if image.title %}
-          {% assign title = image.title %}
+          {% assign image_title = image.title %}
         {% else %}
-          {% assign title = page.title %}
+          {% assign image_title = title %}
         {% endif %}
         <div class="box">
-          <a href="{{ photos.image_path }}{{ image.image }}">
-            <img src="{{ thumbnail }}" alt="{{ title }}"  class="img-gallery" />
+          <a href="{{ event.image_path }}{{ image.image }}">
+            <img src="{{ thumbnail }}" alt="{{ image_title }}"  class="img-gallery" />
           </a>
         </div>
       {% endfor %}

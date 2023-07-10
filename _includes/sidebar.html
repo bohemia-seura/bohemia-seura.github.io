@@ -1,5 +1,13 @@
 <!-- The Side Bar -->
 
+{% if site.lang == "cs" %}
+  {% assign lang_url = '' %}
+{% elsif site.lang == "sk" %}
+  {% assign lang_url = '/sk' %}
+{% elsif site.lang == "fi" %}
+  {% assign lang_url = '/fi' %}
+{% endif %}
+
 <div id="sidebar" class="d-flex flex-column align-items-end">
     <div class="profile-wrapper">
       <a href="{{ '/' | relative_url }}" id="avatar" class="rounded-circle">
@@ -29,7 +37,7 @@
     <ul class="nav flex-column flex-grow-1 w-100 ps-0">
       <!-- home -->
       <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
-        <a href="{{ '/' | relative_url }}" class="nav-link">
+        <a href="{{ site.baseurl_root }}{{ lang_url }}/" class="nav-link">
           <i class="fa-fw fas fa-home"></i>
           <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
         </a>
@@ -38,7 +46,7 @@
       <!-- the real tabs -->
       {% for tab in site.tabs %}
         <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
-          <a href="{{ tab.url | relative_url }}" class="nav-link">
+          <a href="{{ site.baseurl_root }}{{ lang_url }}{{ tab.url }}" class="nav-link">
             <i class="fa-fw {{ tab.icon }}"></i>
             {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
   

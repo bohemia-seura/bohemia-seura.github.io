@@ -10,11 +10,11 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Domů
-  events: Akce
-  posts: Časopis Bohemia
+  home: Domov
+  events: Aktivity
+  bohemia: Časopis Bohemia
   articles: Stanovy
-  application: Žádost o členství
+  application: Žiadosť o členstvo
   categories: Kategorie
   tags: Štítky
   archives: Archivy

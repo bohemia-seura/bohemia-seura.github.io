@@ -12,7 +12,7 @@ tabs:
   # format: <filename_without_extension>: <value>
   home: Koti
   events: Tapahtumat
-  posts: Bohemia-lehti
+  bohemia: Bohemia-lehti
   articles: Säännöt
   application: Jäsenhakemus
   categories: Kateogoriat

@@ -1,8 +1,5 @@
 ---
-title: Stanovy
 icon: fas fa-info-circle
 order: 2
 ---
-
-> Naše stanovy:
-.
+{% translate_file tabs/articles.md %}

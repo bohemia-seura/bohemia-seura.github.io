@@ -1,8 +1,0 @@
----
-title: Promítání filmů
-layout: akce
-date: 1990-01-01 00:00:00 +0200
-categories: [akce]
-tags: [cz] # TAG names should always be lowercase
-event: promitani
----

@@ -14,8 +14,11 @@ baseurl: ""
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
 lang: cs
+
+# Multilang settings
 languages: ["cs", "sk", "fi"]
-exclude_from_localizations: ["photos"]
+exclude_from_localizations: ["photos", "assets"]
+# default_locale_in_subfolder: true
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone:
@@ -138,6 +141,12 @@ collections:
   tabs:
     output: true
     sort_by: order
+  bohemia:
+    output: true
+    sort_by: date
+  events:
+    output: true
+    sort_by: date
 
 defaults:
   - scope:
