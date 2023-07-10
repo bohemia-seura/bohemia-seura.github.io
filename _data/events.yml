@@ -22,7 +22,7 @@
     cs: Posezení s krajany a přáteli české a slovenské kultury
   place: Vaasankatu 5, FI-00500 Helsinki
   categories:
-    - diskuze
+    - setkani
 
 - date: 2019-09-21
   name:
@@ -36,7 +36,7 @@
     cs: Posezení s krajany a přáteli české a slovenské kultury
   place: Vaasankatu 5, FI-00500 Helsinki
   categories:
-    - diskuze
+    - setkani
 
 - date: 2019-10-26
   name:
@@ -50,7 +50,7 @@
     cs: Posezení s krajany a přáteli české a slovenské kultury
   place: Vaasankatu 5, FI-00500 Helsinki
   categories:
-    - diskuze
+    - setkani
 
 - date: 2019-11-16
   name:
@@ -79,7 +79,7 @@
     cs: Posezení s krajany a přáteli české a slovenské kultury
   place: Vaasankatu 5, FI-00500 Helsinki
   categories:
-    - diskuze
+    - setkani
 
 - date: 2019-12-14
   name:
@@ -131,7 +131,7 @@
     fi: Bohemia-seuran ystävien tapaaminen
   place: Roihuvuorentie 2, FI-00820 Helsinki
   categories:
-    - diskuze
+    - setkani
 
 - date: 2020-10-10
   name:
@@ -319,7 +319,7 @@
     cs: Velikonoční setkání rodin krajanů
   categories:
     - velikonoce
-    - diskuze
+    - setkani
 
 - date: 2022-04-23
   name:
@@ -460,7 +460,7 @@
     cs: Hezky česky - konverzace v češtině
   place: Töölön kirjasto, Helsinki
   categories:
-    - diskuze
+    - setkani
 
 - date: 2023-08-26
   name:
@@ -474,14 +474,14 @@
     cs: Hezky česky - konverzace v češtině
   place: Töölön kirjasto, Helsinki
   categories:
-    - diskuze
+    - setkani
 
 - date: 2023-09-14
   name: 
     cs: Hezky česky - konverzace v češtině
   place: Töölön kirjasto, Helsinki
   categories:
-    - diskuze
+    - setkani
 
 - date: 2023-11-11
   name:

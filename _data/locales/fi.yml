@@ -7,18 +7,17 @@ layout:
   category: Kateogoria
   tag: Tagi
 
-# The tabs of sidebar
+# default heading of pages opened from the tabs
 tabs:
-  # format: <filename_without_extension>: <value>
-  home: Koti
-  events: Tapahtumat
-  bohemia: Bohemia-lehti
-  articles: Säännöt
-  application: Jäsenhakemus
-  categories: Kateogoriat
-  tags: Tagit
-  archives: Arkistot
-  about: Minusta
+  home: "Koti"
+  events: "Tapahtumat"
+  bohemia: "Bohemia-lehti"
+  articles: "Säännöt"
+  application: "Jäsenhakemus"
+  categories: "Kateogoriat"
+  tags: "Tagit"
+  archives: "Arkistot"
+  about: "Minusta"
 
 # the text displayed in the search bar & search results
 search:
@@ -57,9 +56,9 @@ notification:
 post:
   written_by: Kirjoittaja
   translated_by: Käännäjä
-  volume: Ročník
+  volume: Vuosi
   issue: Numero
-  gallery: Valokuvasarja
+  gallery: Valokuvat
   calendar: Kalenteri
   posted: Julkaistu
   updated: Päivitetty

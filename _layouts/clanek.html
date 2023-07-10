@@ -27,8 +27,10 @@ tail_includes:
             <em>{{ page.volume }}</em>
         {% endif %}
         {% if page.issue %}
+          {% unless page.issue == 0 %}
             {{ site.data.locales[lang].post.issue }}
             <em>{{ page.issue }}</em>
+          {% endunless %}
         {% endif %}
     </span>
 

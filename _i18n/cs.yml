@@ -8,12 +8,19 @@ events:
   piknik: "Výroční piknik na ostrově Suomenlinna"
   pohadkova_sobota: "Pohádkové soboty"
   promitani: "Promítání filmů"
-  diskuze: "Setkání krajanů"
+  setkani: "Setkání krajanů"
   sportovni_den: "Sportovní dny"
   tanecni_zabava: "Taneční zábavy"
   velikonoce: "Velikonoce"
   vylet: "Společné výlety"
 
 titles:
-  application: "Žádost o členství"
-  events: "Akce"
+  home: Domů
+  events: Akce
+  bohemia: Časopis Bohemia
+  articles: Stanovy
+  application: Žádost o členství
+  categories: Kategorie
+  tags: Štítky
+  archives: Archivy
+  about: O spolku

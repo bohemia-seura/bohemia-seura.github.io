@@ -7,18 +7,17 @@ layout:
   category: Kategorie
   tag: Štítek
 
-# The tabs of sidebar
+# default heading of pages opened from the tabs
 tabs:
-  # format: <filename_without_extension>: <value>
-  home: Domov
-  events: Aktivity
-  bohemia: Časopis Bohemia
-  articles: Stanovy
-  application: Žiadosť o členstvo
-  categories: Kategorie
-  tags: Štítky
-  archives: Archivy
-  about: O spolku
+  home: "Domov"
+  events: "Aktivity"
+  bohemia: "Časopis Bohemia"
+  articles: "Stanovy"
+  application: "Prihláška"
+  categories: "Kategorie"
+  tags: "Štítky"
+  archives: "Archivy"
+  about: "O spolku"
 
 # the text displayed in the search bar & search results
 search:

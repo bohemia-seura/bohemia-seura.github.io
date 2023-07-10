@@ -9,19 +9,19 @@ refactor: true
 <h1 data-toc-skip>{{ title }}</h1>
 
 <div class="post-content">
-  {{ content }}
+  {% assign file_name = "event_data/" | append: page.event | append: ".md"  %}
+  {% translate_file file_name %}
 </div>
 
 {% if page.event %}
-  {% assign event = site.data.event_data[page.event] %}
-  {% if event.images %}
+  {% if page.images %}
     <h2>{{ site.data.locales[lang].post.gallery }}</h2>
     <div class ="image-gallery">
-      {% for image in event.images %}
-        {% assign thumb = event.image_path | append: image.image | replace: '.jpg', '_t.jpg' %}
+      {% for image in page.images %}
+        {% assign thumb = page.image_path | append: image.image | replace: '.jpg', '_t.jpg' %}
         {% assign thumb = thumb | replace: '.png', '_t.jpg' %}
         {% assign thumb = thumb | replace: '.jpeg', '_t.jpg' %}
-        {% assign thumbnail = event.image_path | append: image.image %}
+        {% assign thumbnail = page.image_path | append: image.image %}
         {% for static_file in site.static_files %}
           {% if static_file.path == thumb %}
             {% assign thumbnail = thumb %}
@@ -33,7 +33,7 @@ refactor: true
           {% assign image_title = title %}
         {% endif %}
         <div class="box">
-          <a href="{{ event.image_path }}{{ image.image }}">
+          <a href="{{ page.image_path }}{{ image.image }}">
             <img src="{{ thumbnail }}" alt="{{ image_title }}"  class="img-gallery" />
           </a>
         </div>

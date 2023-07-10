@@ -7,9 +7,8 @@ layout:
   category: Kategorie
   tag: Štítek
 
-# The tabs of sidebar
+# default heading of pages opened from the tabs
 tabs:
-  # format: <filename_without_extension>: <value>
   home: Domů
   events: Akce
   bohemia: Časopis Bohemia
