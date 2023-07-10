@@ -11,10 +11,6 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: Koti
-  events: Tapahtumat
-  posts: Bohemia-lehti
-  articles: Säännöt
-  application: Jäsenhakemus
   categories: Kateogoriat
   tags: Tagit
   archives: Arkistot

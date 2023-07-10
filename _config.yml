@@ -3,6 +3,9 @@
 # Import the theme
 theme: jekyll-theme-chirpy
 
+plugins:
+  - jekyll-multiple-languages-plugin
+
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
 baseurl: ""
@@ -11,7 +14,8 @@ baseurl: ""
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
 lang: cs
-languages: [cs, sk, fi]
+languages: ["cs", "sk", "fi"]
+exclude_from_localizations: ["photos"]
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone:
@@ -115,7 +119,7 @@ assets:
 pwa:
   enabled: true # the option for PWA feature
 
-paginate: 10
+# paginate: 10
 
 # ------------ The following options are not recommended to be modified ------------------
 

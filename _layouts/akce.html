@@ -11,34 +11,35 @@ refactor: true
   {{ content }}
 </div>
 
-{% if page.images %}
-  <h2>{{ site.data.locales[lang].post.gallery }}</h2>
-  <div class ="image-gallery">
-    {% for image in page.images %}
-      {% assign thumb = page.image_path | append: image.image | replace: '.jpg', '_t.jpg' %}
-      {% assign thumb = thumb | replace: '.png', '_t.jpg' %}
-      {% assign thumb = thumb | replace: '.jpeg', '_t.jpg' %}
-      {% assign thumbnail = page.image_path | append: image.image %}
-      {% for static_file in site.static_files %}
-        {% if static_file.path == thumb %}
-          {% assign thumbnail = thumb %}
-        {% endif %}
-      {% endfor %}
-      {% if image.title %}
-        {% assign title = image.title %}
-      {% else %}
-        {% assign title = page.title %}
-      {% endif %}
-      <div class="box">
-        <a href="{{ page.image_path }}{{ image.image }}">
-          <img src="{{ thumbnail }}" alt="{{ title }}"  class="img-gallery" />
-        </a>
-      </div>
-    {% endfor %}
-  </div>
-{% endif %}
-
 {% if page.event %}
+  {% assign photos = site.data.event_photos[page.event] %}
+  {% if photos.images %}
+    <h2>{{ site.data.locales[lang].post.gallery }}</h2>
+    <div class ="image-gallery">
+      {% for image in photos.images %}
+        {% assign thumb = photos.image_path | append: image.image | replace: '.jpg', '_t.jpg' %}
+        {% assign thumb = thumb | replace: '.png', '_t.jpg' %}
+        {% assign thumb = thumb | replace: '.jpeg', '_t.jpg' %}
+        {% assign thumbnail = photos.image_path | append: image.image %}
+        {% for static_file in site.static_files %}
+          {% if static_file.path == thumb %}
+            {% assign thumbnail = thumb %}
+          {% endif %}
+        {% endfor %}
+        {% if image.title %}
+          {% assign title = image.title %}
+        {% else %}
+          {% assign title = page.title %}
+        {% endif %}
+        <div class="box">
+          <a href="{{ photos.image_path }}{{ image.image }}">
+            <img src="{{ thumbnail }}" alt="{{ title }}"  class="img-gallery" />
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+
   <div id="kalendar" class="pl-xl-3">
     <ul class="list-unstyled">
     {% for event in site.data.events %}

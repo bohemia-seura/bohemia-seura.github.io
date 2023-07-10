@@ -11,10 +11,6 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: Domů
-  events: Akce
-  posts: Časopis Bohemia
-  articles: Stanovy
-  application: Žádost o členství
   categories: Kategorie
   tags: Štítky
   archives: Archivy

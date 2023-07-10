@@ -3,6 +3,8 @@ layout: page
 # Index page
 ---
 
+> Na stránkách se pracuje. Připravujeme jazykové verze a další obsah. Děkujeme za strpení.
+
 Vítejte na stránkách kulturního a krajanského spolku Bohemia ry.
 
 Bohemia spojuje krajany s finskými zájemci o český a slovenský jazyk a kulturu.
@@ -18,17 +20,3 @@ Když v roce 1998 vzniklo neorganizované krajanské uskupení Finčech, pořád
 V posledních letech se spolek výrazněji profiluje jako krajanský. Pořádá Pohádkové soboty v češtině a slovenštině, filmové večery a další akce pro krajany, jejich přátele a rodiny. 
 
 Spolek Bohemia je v současnosti finančně podporován z Programu podpory českého kulturního dědictví Ministerstva zahraničních věcí České republiky a Úřadu pro Slováky žijící v zahraničí Slovenské republiky. Na pořádání krajanských akcí spolupracujeme aktivně s českým a slovenským velvyslanectvím v Helsinkách.
-
-<!--
-{% assign nevents = site.data.events.size %}
-<script language="JAVASCRIPT">    
-    var r_text = new Array ();
-    r_text[0] = "Spolek Bohemia uspořádal {{ nevents }} akcí mezi {{ site.data.events[0].date | date: '%Y' }} a {{ site.data.events[-1].date | date: '%Y' }}";
-    r_text[1] = "Spolek Bohemia uspořádal {{ nevents }} akcí ";
-    
-    var i = Math.floor(r_text.length * Math.random());
-    
-    document.write(r_text[i]);
-    
-</script>
--->
