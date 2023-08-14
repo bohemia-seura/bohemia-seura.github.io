@@ -1,8 +1,213 @@
-- date: 2011-12-07 00:00:00 +0200
+- date: 2010-11-12
   name:
-    cs: Mikulášská besídka aneb Pikkuláš
+    cs: Mikulášská oslava
+  place: Armfeltintie 14, 00150 Helsinki
   categories:
     - pikkulas
+
+- date: 2011-02-12
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2011-03-19
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2011-04-16
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2011-05-14
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2011-10-29
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota  
+
+- date: 2011-11-26
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota  
+
+- date: 2011-12-07
+  name:
+    cs: Mikulášská besídka aneb Pikkuláš
+  place: Armfeltintie 14, 00150 Helsinki
+  categories:
+    - pikkulas
+
+- date: 2012-02-11
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota  
+
+- date: 2012-03-10
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota  
+
+- date: 2012-04-21
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota  
+
+- date: 2012-05-12
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota 
+
+- date: 2012-06-03
+  name:
+    cs: Pohádkový výlet na ostrov Harrakka
+  place: Ostrov Harrakka
+  categories:
+    - pohadkova_sobota 
+
+- date: 2012-09-29
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota 
+
+- date: 2012-11-17
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota 
+
+- date: 2013-02-02
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota 
+
+- date: 2013-03-09
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota 
+
+- date: 2013-04-06
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2013-06-02
+  name:
+    cs: Piknik a čtení v Haltiala
+  place: Haltiala
+  categories:
+    - piknik
+    - pohadkova_sobota
+
+- date: 2013-09-14
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2013-10-12
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota    
+
+- date: 2013-10-31
+  name:
+    cs: Studentky z Brna hrají v knihovně Rikhardikadun kirjasto
+  place: Rikhardinkadun kirjasto
+  categories:
+    - divadlo  
+
+- date: 2013-11-21
+  name:
+    cs: Workshop s Alexandrou Salmelou a Martinou Matlovičovou
+  place: Rikhardinkadun kirjasto
+  categories:
+    - beseda
+
+- date: 2013-11-23
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2013-12-14
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2014-02-01
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2014-02-22
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2014-03-15
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2014-04-26
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2014-05-17
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
 
 - date: 2019-03-30
   name:
@@ -483,6 +688,23 @@
   categories:
     - setkani
 
+- date: 2023-09-23
+  name:
+    cs: Pohádková sobota - drakiáda
+    sk: Sobotné stretnutie s krajanmi - púšťanie šarkanov
+  place: Espoon Steinerkoulu, Espoo
+  categories:
+    - pohadkova_sobota
+    - drakiada
+
+- date: 2023-10-28
+  name:
+    cs: Pohádková sobota - Halloween
+    sk: Sobotné stretnutie s krajanmi - Halloween
+  place: Leikkipuisto Isonneva, Helsinki
+  categories:
+    - pohadkova_sobota
+
 - date: 2023-11-11
   name:
     cs: Taneční zábava
@@ -490,5 +712,13 @@
   place: Vartiokylän työväentalo
   categories:
     - tanecni_zabava
+
+- date: 2023-11-25
+  name:
+    cs: Pohádková sobota - lampionový průvod
+    sk: Sobotné stretnutie s krajanmi - lampionový sprievod
+  categories:
+    - pohadkova_sobota
+    - lampionovy_pruvod
 
 
