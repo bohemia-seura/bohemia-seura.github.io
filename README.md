@@ -6,10 +6,10 @@ Otevřete [soubor událostí "events.yml"](https://github.com/bohemia-seura/bohe
 ### date
 Datum ve formátu YYYY-MM-DD (například 2023-11-25)
 
-### name
+### name (nepovinné)
 Jméno události. V podseznamu označte jazyk jména události "cs", "sk" nebo "fi".
 
-### place 
+### place (nepovinné)
 Místo konání události.
 
 ### categories
