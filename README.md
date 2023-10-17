@@ -13,7 +13,18 @@ Jméno události. V podseznamu označte jazyk jména události "cs", "sk" nebo "
 Místo konání události.
 
 ### categories
-Seznam kategorií, pod které je událost zařazená. Platné názvy musí odpovídat názvům souborů ve [složce událostí "_events"](https://github.com/bohemia-seura/bohemia-seura.github.io/tree/main/_events) (například drakiada, sportovni_den ...).
+Seznam kategorií, pod které je událost zařazená. Platné názvy musí odpovídat názvům souborů s koncovkou ".md" ve [složce událostí "_events"](https://github.com/bohemia-seura/bohemia-seura.github.io/tree/main/_events) (například drakiada, sportovni_den ...).
+
+## Přidání nové kategorie události
+
+### Stránka kategorie události
+Založte nový soubor s koncovkou ".md" pro novou kategorii události ve [složce událostí "_events"](https://github.com/bohemia-seura/bohemia-seura.github.io/tree/main/_events). Hlavičku souboru vytvořte podle už existujících událostí. Poté založte prázdné soubory se stejným názvem ve složkách [českých](https://github.com/bohemia-seura/bohemia-seura.github.io/tree/main/_i18n/cs/event_data), [slovenských](https://github.com/bohemia-seura/bohemia-seura.github.io/tree/main/_i18n/sk/event_data) a [finských](https://github.com/bohemia-seura/bohemia-seura.github.io/tree/main/_i18n/fi/event_data) překladů stránek událostí "event_data". Zde je možné napsat doprovodný text k nové kategorii události. Pokud zůstane soubor prázdný, zobrazí se jen kalendář a fotogalerie.
+
+### Složka fotografií
+Založte novou složku ve [složce fotografií "photos"](https://github.com/bohemia-seura/bohemia-seura.github.io/tree/main/photos) se stejným názvem, který jste použili v hlavičce souboru nové kategorie události. Fotografie přidávejte podle návodu pro přidávání nových fotografií.
+
+### Název kategorie a jeho překlady
+V souborech [českých](https://github.com/bohemia-seura/bohemia-seura.github.io/blob/main/_i18n/cs.yml), [slovenských](https://github.com/bohemia-seura/bohemia-seura.github.io/blob/main/_i18n/sk.yml) a [finských](https://github.com/bohemia-seura/bohemia-seura.github.io/blob/main/_i18n/fi.yml) názvů přidejte položku v seznamu "events" odpovídající jménu stránky nové kategorie události.
 
 # Photo gallery
 Upload photos (".png",".jpg",".jpeg" any size) and thumbnails (".jpg" 200x200 px) to the same folder. In the page header specify "image_path" variable (e.g. "image_path: /photos/sportovni_den/") and for each image its name (image.image) and title (image.title). The thumbnails can be generated with irfanView batch processing and are expected to have the same name as the image + "_t" and extension ".jpg". Configuration file is "irfanView_thumbs.ini" and the name pattern is "$N_t".
