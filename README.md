@@ -15,6 +15,9 @@ Místo konání události.
 ### categories
 Seznam kategorií, pod které je událost zařazená. Platné názvy musí odpovídat názvům souborů s koncovkou ".md" ve [složce událostí "_events"](https://github.com/bohemia-seura/bohemia-seura.github.io/tree/main/_events) (například drakiada, sportovni_den ...).
 
+## Přidání fotografií
+Nahrejte fotografie ve formátu ".png",".jpg" nebo ".jpeg" (jakákoliv velikost a rozlišení) a náhledy ve formátu ".jpg" (stejný název jako fotografie + "_t.jpg" a velikost 200x200 pixelů) do odpovídající složky ve [složce fotografií "photos"](https://github.com/bohemia-seura/bohemia-seura.github.io/tree/main/photos). Náhledy nejsou povinné, ale doporučené. Náhledy je možné generovat například v programu "irfanView" pomocí funkce "batch processing" s použitím [konfiguračního souboru](https://github.com/bohemia-seura/bohemia-seura.github.io/blob/main/irfanView_thumbs.ini) a a nastavení "name pattern" parametru jako "$N_t". Ve stráce kategorie události ve [složce událostí "_events"](https://github.com/bohemia-seura/bohemia-seura.github.io/tree/main/_events) ověřte, že položka "image_path" ukazuje na složku fotografií (například "image_path: /photos/sportovni_den/") a pro každou novou fotografii přidejte název souboru "image.image" and titulek "image.title" (nepovinný údaj). 
+
 ## Přidání nové kategorie události
 
 ### Stránka kategorie události
