@@ -1,4 +1,21 @@
-## Photo gallery
+# Návod pro administraci stránek
+
+## Přidání nové události
+Otevřete [soubor událostí "events.yml"](https://github.com/bohemia-seura/bohemia-seura.github.io/blob/main/_data/events.yml) a přidejte další položku v seznamu. 
+
+### date
+Datum ve formátu YYYY-MM-DD (například 2023-11-25)
+
+### name
+Jméno události. V podseznamu označte jazyk jména události "cs", "sk" nebo "fi".
+
+### place 
+Místo konání události.
+
+### categories
+Seznam kategorií, pod které je událost zařazená. Platné názvy musí odpovídat názvům souborů ve [složce událostí "_events"](https://github.com/bohemia-seura/bohemia-seura.github.io/tree/main/_events) (například drakiada, sportovni_den ...).
+
+# Photo gallery
 Upload photos (".png",".jpg",".jpeg" any size) and thumbnails (".jpg" 200x200 px) to the same folder. In the page header specify "image_path" variable (e.g. "image_path: /photos/sportovni_den/") and for each image its name (image.image) and title (image.title). The thumbnails can be generated with irfanView batch processing and are expected to have the same name as the image + "_t" and extension ".jpg". Configuration file is "irfanView_thumbs.ini" and the name pattern is "$N_t".
 
 
