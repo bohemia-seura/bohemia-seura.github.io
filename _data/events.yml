@@ -721,4 +721,68 @@
     - pohadkova_sobota
     - lampionovy_pruvod
 
+- date: 2023-12-09
+  name:
+    cs: Mikulášská besídka
+  place: Roihuvuoren Nuorisotalo, Helsinki
+  categories:
+    - pikkulas
 
+- date: 2024-01-13
+  name:
+    cs: Novoroční sáňkovačka s krajany
+    sk: Novoročná sánkovačka s krajanmi
+  place: Kaivopuisto, Helsinki
+  categories:
+    - sportovni_den
+    - pohadkova_sobota
+
+- date: 2024-02-07
+  name: 
+    cs: Hezky česky - čtenářský kroužek
+  place: Töölön kirjasto, Helsinki
+  categories:
+    - setkani
+
+- date: 2024-02-10
+  name:
+    cs: Pohádková sobota
+    sk: Sobotné stretnutie s krajanmi
+  place: Leikkipuisto Isonneva, Helsinki
+  categories:
+    - pohadkova_sobota
+
+- date: 2024-03-02
+  name:
+    cs: Lidové písně a tance
+    sk: Ľudové piesne a tance
+  place: Roihuvuoren Nuorisotalo, Helsinki
+  categories:
+    - tanecni_zabava
+
+- date: 2024-04-18
+  name:
+    cs: Beseda s Alexandrou Salmela o knize - 56, či?
+    sk: Beseda s Alexandrou Salmela o knihe - 56, či?
+  place: Töölön kirjasto, Helsinki
+  categories:
+    - beseda
+
+- date: 2024-04-20
+  name:
+    cs: Pohádková sobota
+    sk: Sobotné stretnutie s krajanmi
+  place: Leikkipuisto Isonneva, Helsinki
+  categories:
+    - pohadkova_sobota
+
+- date: 2024-05-25
+  name:
+    cs: Pohádková sobota
+    sk: Sobotné stretnutie s krajanmi
+  place: Luukin Ulkoilualue
+  categories:
+    - pohadkova_sobota
+    - sportovni_den
+
+    
