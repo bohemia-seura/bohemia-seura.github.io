@@ -1,0 +1,788 @@
+- date: 2010-11-12
+  name:
+    cs: Mikulášská oslava
+  place: Armfeltintie 14, 00150 Helsinki
+  categories:
+    - pikkulas
+
+- date: 2011-02-12
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2011-03-19
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2011-04-16
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2011-05-14
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2011-10-29
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota  
+
+- date: 2011-11-26
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota  
+
+- date: 2011-12-07
+  name:
+    cs: Mikulášská besídka aneb Pikkuláš
+  place: Armfeltintie 14, 00150 Helsinki
+  categories:
+    - pikkulas
+
+- date: 2012-02-11
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota  
+
+- date: 2012-03-10
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota  
+
+- date: 2012-04-21
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota  
+
+- date: 2012-05-12
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota 
+
+- date: 2012-06-03
+  name:
+    cs: Pohádkový výlet na ostrov Harrakka
+  place: Ostrov Harrakka
+  categories:
+    - pohadkova_sobota 
+
+- date: 2012-09-29
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota 
+
+- date: 2012-11-17
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota 
+
+- date: 2013-02-02
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota 
+
+- date: 2013-03-09
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota 
+
+- date: 2013-04-06
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2013-06-02
+  name:
+    cs: Piknik a čtení v Haltiala
+  place: Haltiala
+  categories:
+    - piknik
+    - pohadkova_sobota
+
+- date: 2013-09-14
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2013-10-12
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota    
+
+- date: 2013-10-31
+  name:
+    cs: Studentky z Brna hrají v knihovně Rikhardikadun kirjasto
+  place: Rikhardinkadun kirjasto
+  categories:
+    - divadlo  
+
+- date: 2013-11-21
+  name:
+    cs: Workshop s Alexandrou Salmelou a Martinou Matlovičovou
+  place: Rikhardinkadun kirjasto
+  categories:
+    - beseda
+
+- date: 2013-11-23
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2013-12-14
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2014-02-01
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2014-02-22
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2014-03-15
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2014-04-26
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2014-05-17
+  name:
+    cs: Pohádková sobota
+  place: Rikhardinkadun kirjasto
+  categories:
+    - pohadkova_sobota
+
+- date: 2019-03-30
+  name:
+    cs: Koncert české a slovenské lidové hudby
+  place: Pasilan kirjasto
+  categories:
+    - koncert
+
+- date: 2019-08-24
+  name:
+    cs: Výlet do Nuuksia
+  categories:
+    - vylet
+
+- date: 2019-09-05
+  name:
+    cs: Posezení s krajany a přáteli české a slovenské kultury
+  place: Vaasankatu 5, FI-00500 Helsinki
+  categories:
+    - setkani
+
+- date: 2019-09-21
+  name:
+    cs: Pohádková sobota
+  place: Leikkipuisto Intia, Helsinki
+  categories:
+    - pohadkova_sobota
+
+- date: 2019-10-03
+  name:
+    cs: Posezení s krajany a přáteli české a slovenské kultury
+  place: Vaasankatu 5, FI-00500 Helsinki
+  categories:
+    - setkani
+
+- date: 2019-10-26
+  name:
+    cs: Pohádková sobota
+  place: Leikkipuisto Isonneva, Helsinki
+  categories:
+    - pohadkova_sobota
+
+- date: 2019-11-07
+  name:
+    cs: Posezení s krajany a přáteli české a slovenské kultury
+  place: Vaasankatu 5, FI-00500 Helsinki
+  categories:
+    - setkani
+
+- date: 2019-11-16
+  name:
+    cs: 30 let (v) Sametu
+    fi: 30 vuotta samettia
+  categories:
+    - beseda
+    - promitani
+
+- date: 2019-11-23
+  name:
+    cs: Pohádková sobota
+  place: Leikkipuisto Isonneva, Helsinki
+  categories:
+    - pohadkova_sobota
+
+- date: 2019-12-01
+  name:
+    cs: Mikulášská besídka aneb Pikkuláš
+  place: Roihuvuorentie 2, FI-00820 Helsinki
+  categories:
+    - pikkulas
+
+- date: 2019-12-05
+  name:
+    cs: Posezení s krajany a přáteli české a slovenské kultury
+  place: Vaasankatu 5, FI-00500 Helsinki
+  categories:
+    - setkani
+
+- date: 2019-12-14
+  name:
+    cs: Pohádková sobota
+  place: Leikkipuisto Isonneva, Helsinki
+  categories:
+    - pohadkova_sobota
+
+- date: 2020-02-15
+  name:
+    cs: Pohádková sobota
+  place: Leikkipuisto Isonneva, Helsinki
+  categories:
+    - pohadkova_sobota
+
+- date: 2020-03-21
+  name:
+    cs: Pohádková sobota
+  place: Leikkipuisto Isonneva, Helsinki
+  categories:
+    - pohadkova_sobota
+
+- date: 2020-05-09
+  name:
+    cs: Pohádková sobota
+  place: Leikkipuisto Isonneva, Helsinki
+  categories:
+    - pohadkova_sobota
+
+- date: 2020-06-07
+  name:
+    cs: Piknik Bohemia
+    sk: Piknik Bohemia
+    fi: Piknik Bohemia
+  categories:
+    - piknik
+
+- date: 2020-08-22
+  name:
+    cs: Sportovní den v Luukki
+    fi: Urheilupäivä Luukissa
+  place: Luukintie 33, FI-02970 Espoo
+  categories:
+    - sportovni_den
+
+- date: 2020-09-26
+  name:
+    cs: Setkání přátel Bohemia
+    fi: Bohemia-seuran ystävien tapaaminen
+  place: Roihuvuorentie 2, FI-00820 Helsinki
+  categories:
+    - setkani
+
+- date: 2020-10-10
+  name:
+    cs: Pohádková sobota - pouštění draků
+    sk: Rozprávková sobota - púšťanie šarkanov
+  place: Espoon Steinerkoulu, Espoo
+  categories:
+    - pohadkova_sobota
+    - drakiada
+
+- date: 2020-11-14
+  name:
+    cs: Pohádková sobota - lampionový průvod
+    sk: Rozprávková sobota - lampionový sprievod
+  categories:
+    - pohadkova_sobota
+    - lampionovy_pruvod
+
+- date: 2020-12-12
+  name: 
+    cs: Pohádková sobota - vánoční bruslení
+    sk: Rozprávková sobota - vianočné korčuľovanie
+  place: Tapiolan Jääpuisto, Espoo
+  categories:
+    - pohadkova_sobota
+    - zima
+
+- date: 2021-01-16
+  name:
+    cs: Pohádková sobota - novoroční sánkovačka
+    sk: Rozprávková sobota - novoročná sánkovačka
+  place: Kaivopuiston tähtitorni, Helsinki
+  categories:
+    - pohadkova_sobota
+    - zima
+
+- date: 2021-01-30
+  name:
+    cs: Hrajeme hokej!
+    sk: Hráme hokej!
+  place: Brahenkenttä, helsinginkatu 25A, Helsinki
+  categories:
+    - sportovni_den
+    - zima
+
+- date: 2021-02-13
+  name: 
+    cs: Pohádková sobota - masopustní pochod v maskách
+    sk: Rozprávková sobota - fašiangový pochod v maskách
+  place: Pirttimäen Ulkoilualue, Espoo
+  categories:
+    - pohadkova_sobota
+    - masopust
+
+- date: 2021-03-13
+  name:
+    cs: STROM - čtení a beseda s Alexandrou Salmela online
+    sk: STROM - čítanie a beseda s Alexandrou Salmela online
+  categories:
+    - beseda
+
+- date: 2021-03-19
+  name:
+    fi: Alakulon vastaiset tšekkiläis-suomalaiset iltamat
+    cs: Antidepresivní česko-finský večírek s Janem Burianem
+  categories:
+    - beseda
+    - koncert
+
+- date: 2021-04-28
+  name:
+    cs: Online koncert - šansóny z repertoáru Hany Hegerové zpívá Soňa Jány-Louhivuori
+    sk: Online koncert - šansóny z repertoáru Hany Hegerovej spieva Soňa Jány-Louhivuori
+  categories:
+    - koncert
+
+- date: 2021-05-15
+  name: 
+    cs: Pohádková sobota - dětské dopravní hřiště
+    sk: Rozprávková sobota - detské dopravné ihrisko
+  place: Lasten liikennekaupunki, Helsinki
+  categories:
+    - pohadkova_sobota
+
+- date: 2021-05-29
+  name:
+    cs: Pohádková sobota - vila Elfvik
+    sk: Rozprávková sobota - vila Elfvik
+  place: Villa Elfvik, Espoo
+  categories:
+    - pohadkova_sobota
+
+- date: 2021-06-12
+  name:
+    cs: Výroční schůze a piknik na ostrově Suomenlinna
+  place: Market Square, Helsinki
+  categories:
+    - schuze
+    - piknik
+
+- date: 2021-08-28
+  name:
+    cs: Setkání s hudebníkem Jiřím Pavlicou a jeho hosty
+  categories:
+    - beseda
+    - koncert
+
+- date: 2021-09-13
+  name:
+    cs: Koncert pianistky Ráchel Skleničkové
+  place: Rikhardinkadun kirjasto, Helsinki
+  categories:
+    - koncert
+
+- date: 2021-09-25
+  name:
+    cs: Sportovní den v Luukki
+    fi: Urheilupäivä Luukissa
+  categories:
+    - sportovni_den
+
+- date: 2021-10-09
+  name:
+    cs: Pohádková sobota - pouštění draků
+    sk: Rozprávková sobota - púšťanie šarkanov
+  place: Espoon Steinerkoulu, Espoo
+  categories:
+    - pohadkova_sobota
+    - drakiada
+
+- date: 2021-10-31
+  name:
+    fi: Lastenkirja tekijän silmin
+    cs: Kniha pro děti očima autora
+  categories:
+    - beseda
+
+- date: 2021-11-13
+  name:
+    cs: Pohádková sobota - lampionový průvod
+    sk: Rozprávková sobota - lampionový sprievod
+  categories:
+    - pohadkova_sobota
+    - lampionovy_pruvod
+
+- date: 2021-11-20
+  name:
+    cs: Filmový večer - KOMÚNA
+  place: Roihuvuorentie 2, FI-00820 Helsinki
+  categories:
+    - promitani
+
+- date: 2021-12-11
+  name:
+    cs: Pohádková sobota - předvánoční bruslení
+    sk: Rozprávková sobota - predvianočné korčuľovanie
+  categories:
+    - pohadkova_sobota
+    - zima
+
+- date: 2022-03-12
+  name:
+    cs: Pohádková sobota - novoroční sáňkovačka
+    sk: Rozprávková sobota - novoročná sánkovačka
+  categories:
+    - pohadkova_sobota
+    - zima
+
+- date: 2022-03-12
+  name:
+    cs: Pohádková sobota
+    sk: Rozprávková sobota
+  categories:
+    - pohadkova_sobota
+
+- date: 2022-03-23
+  name:
+    cs: Beseda s překladatelem Eero Balkem
+    fi: Vieraana suomentaja Eero Balk
+  categories:
+    - beseda
+
+- date: 2022-04-10
+  name:
+    cs: Velikonoční setkání rodin krajanů
+  categories:
+    - velikonoce
+    - setkani
+
+- date: 2022-04-23
+  name:
+    cs: Pohádková sobota - beseda se Sašou Salmela
+    sk: Rozprávková sobota - beseda so Sašou Salmela
+  categories:
+    - pohadkova_sobota
+    - beseda
+
+- date: 2022-05-03
+  name:
+    cs: Beseda - Proč mají Češi rádi Finsko (a naopak)?
+    fi: Keskustelu - Miksi tšekit pitävät Suomesta (ja päinvastoin)?
+  categories:
+    - beseda
+
+- date: 2022-05-21
+  name:
+    cs: Pohádková sobota
+    sk: Rozprávková sobota
+  categories:
+    - pohadkova_sobota
+
+- date: 2022-06-01
+  name:
+    cs: Mezinárodní den děti na Slovenském velvyslanectví v Helsinkách
+    sk: Medzinárodný deň detí na Slovenskom veľvyslanectve v Helsinkách
+
+- date: 2022-06-05
+  name:
+    cs: Výroční schůze a piknik na Suomenlinna
+    fi: Vuosikokous ja piknik Suomenlinnassa
+  categories:
+    - schuze
+    - piknik
+
+- date: 2022-08-13
+  name:
+    cs: Češi a Slováci ve Finsku - výlet do Tampere
+  categories:
+    - vylet
+
+- date: 2022-09-22
+  name:
+    cs: Promítání filmu Zátopek
+  categories:
+    - promitani
+
+- date: 2022-10-09
+  name:
+    cs: Pohádková sobota - drakiáda
+    sk: Sobotné stretnutie s krajanmi - púšťanie šarkanov
+  categories:
+    - pohadkova_sobota
+    - drakiada
+
+- date: 2022-11-12
+  name:
+    cs: Taneční zábava
+    fi: Tanssijuhlat
+  categories:
+    - tanecni_zabava
+
+- date: 2022-11-19
+  name:
+    cs: Pohádková sobota - lampionový průvod
+    sk: Sobotné stretnutie s krajanmi - lampionový sprievod
+  categories:
+    - pohadkova_sobota
+    - lampionovy_pruvod
+
+- date: 2022-12-10
+  name:
+    cs: Mikulášská besídka
+  categories:
+    - pikkulas
+
+- date: 2022-12-18
+  name:
+    cs: Pohádková neděle - vánoční tvoření
+    sk: Nedeľné stretnutie s krajanmi - vianočné tvorenie
+  categories:
+    - pohadkova_sobota
+    - vanoce
+
+- date: 2023-02-11
+  name:
+    cs: Pohádková sobota
+    sk: Sobotné stretnutie s krajanmi
+  categories:
+    - pohadkova_sobota
+
+- date: 2023-03-18
+  name:
+    cs: Pohádková sobota
+    sk: Sobotné stretnutie s krajanmi
+  categories:
+    - pohadkova_sobota
+
+- date: 2023-04-01
+  name:
+    cs: Velikonoční setkání rodin krajanů
+  categories:
+    - velikonoce
+
+- date: 2023-04-13
+  name:
+    cs: Promítání filmu Piargy
+  place: K13
+  categories:
+    - promitani
+
+- date: 2023-04-15
+  name:
+    cs: Pohádková sobota
+    sk: Sobotné stretnutie s krajanmi
+  categories:
+    - pohadkova_sobota
+
+- date: 2023-05-13
+  name:
+    cs: Pohádková sobota - sportovní aktivity a opékačka
+    sk: Sobotné stretnutie s krajanmi - športové aktivity a opekačka
+  categories:
+    - pohadkova_sobota
+    - sportovni_den
+
+- date: 2023-06-04
+  name:
+    cs: Výroční schůze a piknik na Suomenlinna
+    fi: Vuosikokous ja piknik Suomenlinnassa
+  categories:
+    - schuze
+    - piknik
+
+- date: 2023-08-17
+  name: 
+    cs: Hezky česky - konverzace v češtině
+  place: Töölön kirjasto, Helsinki
+  categories:
+    - setkani
+
+- date: 2023-08-26
+  name:
+    cs: Výlet do Nuuksia
+  place: Kattilantie 426, FI-02820 Espoo, Suomi
+  categories:
+    - vylet
+
+- date: 2023-08-31
+  name: 
+    cs: Hezky česky - konverzace v češtině
+  place: Töölön kirjasto, Helsinki
+  categories:
+    - setkani
+
+- date: 2023-09-14
+  name: 
+    cs: Hezky česky - konverzace v češtině
+  place: Töölön kirjasto, Helsinki
+  categories:
+    - setkani
+
+- date: 2023-09-23
+  name:
+    cs: Pohádková sobota - drakiáda
+    sk: Sobotné stretnutie s krajanmi - púšťanie šarkanov
+  place: Espoon Steinerkoulu, Espoo
+  categories:
+    - pohadkova_sobota
+    - drakiada
+
+- date: 2023-10-28
+  name:
+    cs: Pohádková sobota - Halloween
+    sk: Sobotné stretnutie s krajanmi - Halloween
+  place: Leikkipuisto Isonneva, Helsinki
+  categories:
+    - pohadkova_sobota
+
+- date: 2023-11-11
+  name:
+    cs: Taneční zábava
+    fi: Tanssijuhlat
+  place: Vartiokylän työväentalo
+  categories:
+    - tanecni_zabava
+
+- date: 2023-11-25
+  name:
+    cs: Pohádková sobota - lampionový průvod
+    sk: Sobotné stretnutie s krajanmi - lampionový sprievod
+  categories:
+    - pohadkova_sobota
+    - lampionovy_pruvod
+
+- date: 2023-12-09
+  name:
+    cs: Mikulášská besídka
+  place: Roihuvuoren Nuorisotalo, Helsinki
+  categories:
+    - pikkulas
+
+- date: 2024-01-13
+  name:
+    cs: Novoroční sáňkovačka s krajany
+    sk: Novoročná sánkovačka s krajanmi
+  place: Kaivopuisto, Helsinki
+  categories:
+    - sportovni_den
+    - pohadkova_sobota
+
+- date: 2024-02-07
+  name: 
+    cs: Hezky česky - čtenářský kroužek
+  place: Töölön kirjasto, Helsinki
+  categories:
+    - setkani
+
+- date: 2024-02-10
+  name:
+    cs: Pohádková sobota
+    sk: Sobotné stretnutie s krajanmi
+  place: Leikkipuisto Isonneva, Helsinki
+  categories:
+    - pohadkova_sobota
+
+- date: 2024-03-02
+  name:
+    cs: Lidové písně a tance
+    sk: Ľudové piesne a tance
+  place: Roihuvuoren Nuorisotalo, Helsinki
+  categories:
+    - tanecni_zabava
+
+- date: 2024-04-18
+  name:
+    cs: Beseda s Alexandrou Salmela o knize - 56, či?
+    sk: Beseda s Alexandrou Salmela o knihe - 56, či?
+  place: Töölön kirjasto, Helsinki
+  categories:
+    - beseda
+
+- date: 2024-04-20
+  name:
+    cs: Pohádková sobota
+    sk: Sobotné stretnutie s krajanmi
+  place: Leikkipuisto Isonneva, Helsinki
+  categories:
+    - pohadkova_sobota
+
+- date: 2024-05-25
+  name:
+    cs: Pohádková sobota
+    sk: Sobotné stretnutie s krajanmi
+  place: Luukin Ulkoilualue
+  categories:
+    - pohadkova_sobota
+    - sportovni_den
+
+    
