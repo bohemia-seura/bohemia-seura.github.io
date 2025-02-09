@@ -1,0 +1,63 @@
+---
+layout: page
+---
+
+{% include lang.html %}
+
+{% if site.lang == "cs" %}
+  {% assign lang_url = '' %}
+{% elsif site.lang == "sk" %}
+  {% assign lang_url = '/sk' %}
+{% elsif site.lang == "fi" %}
+  {% assign lang_url = '/fi' %}
+{% endif %}
+
+{% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
+{% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
+
+<div id="akce" class="pl-xl-3">
+  <ul class="list-unstyled">
+    {% for page in site.events %}
+      {% assign title = site.translations[site.lang].events[page.event] %}
+      <li>
+        <a href="{{ site.baseurl_root }}{{ lang_url }}{{ page.url }}">{{ title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<h1>{{ site.data.locales[lang].post.calendar }}</h1>
+
+<div id="kalendar" class="pl-xl-3">
+
+  {% assign last_year = 0 %}
+  {% assign events = site.data.events | reverse %}
+  {% for event in events %}
+    {% capture cur_year %}{{ event.date | date: "%Y" }}{% endcapture %}
+
+    {% if cur_year != last_year %}
+        {% unless last_year == 0 %}</ul>{% endunless %}
+        <div class="year lead">{{ cur_year }}</div>
+        <ul class="list-unstyled">
+        {% assign last_year = cur_year %}
+    {% endif %}
+    
+    {% if event.url %}
+      {% assign url = event.url %}
+    {% elsif event.categories %}
+      {% for page in site.events %}
+        {% if page.event == event.categories[0] %}
+          {% assign url = page.url %}
+        {% endif %}
+      {% endfor %}        
+    {% endif %}
+    
+    {% if url %}
+      <li><a href="{{ site.baseurl_root }}{{ lang_url }}{{ url }}">{{ event.date | date: "%d.%m.%Y" }} - {{ event.name[lang] }}</a></li>
+    {% else %}
+      <li>{{ event.date | date: "%d.%m.%Y" }} - {{ event.name[lang] }}</li>
+    {% endif %}
+    {% if forloop.last %}</ul>{% endif %}
+  {% endfor %}
+  
+</div>

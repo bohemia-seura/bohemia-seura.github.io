@@ -1,0 +1,66 @@
+---
+layout: page
+refactor: true
+---
+
+{% include lang.html %}
+
+{% assign title = site.translations[site.lang].events[page.event] %}
+<h1 data-toc-skip>{{ title }}</h1>
+
+<div class="post-content">
+  {% assign file_name = "event_data/" | append: page.event | append: ".md"  %}
+  {% include {{ file_name }} %}
+</div>
+
+{% if page.event %}
+  {% if page.images %}
+    <h2>{{ site.data.locales[lang].post.gallery }}</h2>
+    <div class ="image-gallery">
+      {% for image in page.images %}
+        {% assign thumb = page.image_path | append: image.image | replace: '.jpg', '_t.jpg' %}
+        {% assign thumb = thumb | replace: '.png', '_t.jpg' %}
+        {% assign thumb = thumb | replace: '.jpeg', '_t.jpg' %}
+        {% assign thumbnail = page.image_path | append: image.image %}
+        {% for static_file in site.static_files %}
+          {% if static_file.path == thumb %}
+            {% assign thumbnail = thumb %}
+          {% endif %}
+        {% endfor %}
+        {% if image.title %}
+          {% assign image_title = image.title %}
+        {% else %}
+          {% assign image_title = title %}
+        {% endif %}
+        <div class="box">
+          <a href="{{ page.image_path }}{{ image.image }}">
+            <img src="{{ thumbnail }}" alt="{{ image_title }}"  class="img-gallery" />
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  <div id="kalendar" class="pl-xl-3">
+    <ul class="list-unstyled">
+    {% for event in site.data.events %}
+      {% for category in event.categories %}
+        {% if category == page.event %}
+          {% if events %}
+          {% else %}
+            {% assign events = "" | split: "," %}
+          {% endif %}
+          {% assign events = events | push: event %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    {% if events %}
+    {% assign events = events | reverse %}
+      <h2>{{ site.data.locales[lang].post.calendar }}</h2>
+      {% for event in events %}
+        <li>{{ event.date | date: "%d.%m.%Y" }} - {{ event.name[lang] }}</li>
+      {% endfor %}
+    {% endif %}
+    </ul>
+  </div>
+{% endif %}

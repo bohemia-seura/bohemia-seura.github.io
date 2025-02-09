@@ -1,0 +1,18 @@
+
+<div class="d-flex align-items-center">
+{% if site.lang == "cs" %}
+  {% capture link1 %}{{ site.baseurl_root }}/sk{{ page.url}}{% endcapture %}
+  {% capture link2 %}{{ site.baseurl_root }}/fi{{ page.url}}{% endcapture %}
+  CS|<a href="{{ link1 }}" >SK</a>|<a href="{{ link2 }}" >FI</a>
+{% elsif site.lang == "sk" %}
+  {% capture link1 %}{{ site.baseurl_root }}{{ page.url}}{% endcapture %}
+  {% capture link2 %}{{ site.baseurl_root }}/fi{{ page.url}}{% endcapture %}
+  <a href="{{ link1 }}" >CS</a>|SK|<a href="{{ link2 }}" >FI</a>
+{% elsif site.lang == "fi" %}
+  {% capture link1 %}{{ site.baseurl_root }}{{ page.url}}{% endcapture %}
+  {% capture link2 %}{{ site.baseurl_root }}/sk{{ page.url}}{% endcapture %}
+  <a href="{{ link1 }}" >CS</a>|<a href="{{ link2 }}" >SK</a>|FI  
+{% endif %}
+</div>
+<!--
+-->
