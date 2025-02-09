@@ -1,0 +1,26 @@
+---
+title: Hei Eurooppa!
+layout: clanek
+date: 2004-3-01 00:00:00 +0200
+category: bohemia
+tags: [fi]
+volume: 2004
+issue: 3
+author: alexandra_berkova
+translated: sampo_saari
+---
+  
+Suomi järkyttää minua jatkuvasti kahdella tapaa: puhtaus, rauha ja kalaruoat — ja samaan aikaan veljeyden tunne: nimittäin sellaisen suuren sukulaisuuden, joka on perhesideveljeyttä vahvempaa, kuten käsittää jokainen, jolla on veli… Kenties kyseessä on yhtäläinen elämäntunne maantieteellisestä etäisyydestämme huolimatta: jonkinlainen nostalgia, jonka pohjalla olevan pisaran katkeruutta voi liuottaa vain syleily, laulu tai votka; ainakin minun kokemukseni todistavat tämän, ja olenkin vakuuttunut, että jollei Leningrad Cowboys olisi syntynyt Suomessa, se olisi varmasti syntynyt Tšekissä — ja niinpä sanon mieluusti, että minun suomalaiseni ymmärtävät minua… 
+ Käydessäni Helsingissä ensi kertaa huomasin muun muassa tiettyä itsesääliä tuntien, että kauppojen hintalapuissa kerrottiin myös tuotteiden kilohinnat. Ja katso: enää minun ei tarvitse nähdä vaivaa laskeakseni, paljonko on 16,45 kruunua jaettuna 178,43 grammalla; vertailuhinta on merkitty pienellä, mutta on kuitenkin! Mekö muka emme olisi oppimassa tavoille!  
+Viimeisin käyntini erosi aiemmista vain kahden elämyksen suhteen: 
+Järisyttävää oli havaita, että jopa julkisiin vessoihin, joissa ei olisi luullut enää olevan parantamisen varaa, on ilmestynyt pieniä käsisuihkuja, jotka korvaavat sotaa edeltäneen ajan bideet. Mutta kaiken yllä kaartui tunne, jonka vallassa olin kulkenut Praha-Ruzyněn lentokentän lähtöalueen portista, joka oli tuolloin, huhtikuussa, merkitty EU + CZ; kuljin monille mutkille venyneen jonon ohi, jossa seisoivat muiden maiden kansalaiset; siinä jonossa minunkin oli pitänyt odottaa aikana, jolloin ihmisiä maassa pidätelleet piikkilanka-aidat oli jo purettu, mutta yhä tuo jono erotti meidät sivistyneestä Euroopasta ja osoitti oikeutetusti, että maamme lukeutuu valtioihin, joissa lakeja ei noudateta, turvallisuus on suhteellista ja varastaminen kannattaa… 
+Vapunpäivän loputtomalla juhla-aamiaisella Itävallan ja Tšekin rajalla tunsin saaneeni takaisin ihmisarvoni, vihdoin viimein ja kylläpä kesti ja nyt enää muodollinen vahvistus asialle. Loistosää, yhtyeitä, pöytiä tarjoomuksineen ja vapaa kulku käytöstä poistetun tulliaseman läpi. Itävallan puolella leipää, sämpylöitä, hilloja, juustoja, silavaa; Tšekin puolella täytettyjä pullia, munkkeja, piirakoita, kermaleivoksia ja voileipiä. Selväpäinen vieraanvaraisuus versus köyhien sukulaisten näyttämisenhalu. Itävallan puolella paljon kauniilla, hieman unohtuneella tšekin kielellä kirjoitettuja tervetulolehtisiä, luomukauppaluettelo karttoineen sekä pikku sanasto: mikä nimenne on, kuinka voitte, rajat ovat nyt esteettömiä… 
+Kuljeskelin sinne tänne kädessäni kuppi itävaltalaista kahvia ja tšekkiläinen kääretortunpala ja annoin auringon paistaa kaiken yllä ja tuulen viedä vanhan minuuden ja ajatusten kiertää pääkoppaa: 
+…että juhlimme liittymistä eurooppalaiseen yhteisöön valtiomme päämiehen varoitellessa kovaan ääneen — moista ei liene muissa maissa nähty; 
+…että ehkä meidänkin vessoihimme ilmaantuu ei vain vessapaperia, vaan myös käsisuihkut — eikä kukaan varasta niitä; 
+…että ehkä joskus meilläkin on puhdasta ja lakeja noudatetaan ja typerä ylimielisyys väistyy tietyn jalouden ja eettisyyden tieltä; 
+…että — ja sillä hetkellä näin sen: suuren sinisen kyltin: kultaisten tähtien kehän sinisellä taustalla ja niiden keskellä tekstin Česká republika. Ja silloin tunsin jotain vahvempaa kuin kaikki aiempi: symbolin voiman. Minun tasavaltani tähtikehässä: tulipa siitä millaista tahansa: hinnat nousevat, kyllä, Saksa jyrää meidät, kyllä, vahvat sanelevat — mutta se kaikki on sata kertaa parempi kuin tukahduttava veljellinen syleily ja neuvostoveljen tuhoisa rakkaus… Purskahdin itkuun. Mitä siitä vielä kirjoittaisi… kun kyyneleet valuvat, niin kynä putoaa kädestä, sanoi Diderot Näyttelijän paradoksissa.  
+Kun näin New Yorkissa ensi kertaa hintalapussa dollarin merkin, pelko sujahti sisuksiini: tunsin tuon merkin lapsuudestani, kammottavista julisteista, joissa irvisteli paha ja vaarallinen setä Samuli, joka halusi tappaa minut, koska hän halusi sotaa… uskomatonta mutta kerran totta… 
+En kuvittele, että meidät toivotti tervetulleiksi kultaiseen tähtikehään enkeliparvi — en kuvittele, että he rakastavat meitä ja että kaikki meikäläiset loiset alkavat katua ja elättää itsensä työnteolla; en usko edes, että Eurooppa tekee KGB:hen sellaisen vaikutuksen, että se lakkaa toimimasta maassamme… Mutta tuo väkevä liikutukseni oli helpotuksen huokaus; kiitollisuuden kyyneliä siitä, että se on ohi, tuo paha uni, jolle Eurooppa antoi muodollisen siunauksensa huvittavassa uskossaan, että Hitler hoitelee bolševikit… 
+Tämä vapunpäivä, tämä kevät oli minulle suuri maanjäristys: veljeyden käsitteen rehabilitointia, pelon hälvenemistä ja jotain toivon tapaista; saksalaiset, ranskalaiset ja britit eivät moista varmaankaan tunne — mutta minun suomalaiseni ymmärtävät minua…  
+Suomentanut Sampo Saari, paitsi Diderot-sitaatin Marjatta Ecaré 

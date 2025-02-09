@@ -1,0 +1,17 @@
+---
+title: Švejkit sukupuuttoon 2005 … seuraako kapakkaruoka perässä
+layout: clanek
+date: 2003-02-08 00:00:00 +0200
+category: bohemia
+tags: [fi]
+volume: 2003
+issue: 2-3
+---
+  
+Švejkit sukupuuttoon 2005…
+Tšekin puolustusministeri Miroslav Kostelka ilmoitti lokakuussa, että hän aikoo lakkauttaa miesten yleisen asepalveluksen jo vuoden 2005 alusta. Samaa suunnitteli jo keväällä Kostelkan edeltäjä Jaroslav Tvrdík, joka kuitenkin erosi, kun parlamentti ei antanut tarpeeksi lisärahaa puolustusvoimien uudistamiseen. Pääesikunta on kuitenkin päätynyt siihen, että muutos on toteutettavissa vähemminkin varoin. Muutoksen hinnaksi on laskettu vuonna miljardi kruunua vuonna 2004, mutta ajan mittaan rahat lasketaan saatavan takaisin. Parlamentin uskotaan hyväksyvän ehdotuksen, vaikka oppositiosta on kuulunut vaatimuksia lakkauttamisen toteuttamiseksi hitaammassa tahdissa. 
+Asevelvollisten sijaan Tšekin armeija muodostuu jatkossa noin 35&nbsp;000 ammattisotilaasta, joiden keskipalkaksi tulee noin 25&nbsp;000 kruunua kuukaudessa – asevelvolliset ovat saaneet 700 kruunua. Pelkästään ensi vuonna ammattilaisia pitäisi saada värvättyä armeijan harmaisiin noin kuusituhatta. Viimeiseen erään ennen asepalveluksen lakkauttamista kutsutaan kolmannes kutsuntaikäisistä, eikä opiskelijoiden tarvitse enää käydä kutsunnoissa lainkaan. Varsinaisten ammattisotilaiden lisäksi ns. aktiivireserviin halutaan vuoteen 2008 mennessä houkutella 3700 vapaaehtoista miestä ja naista, jotka olisivat pientä kuukausikorvausta vastaan valmiina esim. luonnonkatastrofien ja muiden ei-sotilaallisten tarpeiden varalta. 
+Muutos ei poista maanpuolustusvelvoitetta vaaran uhatessa. Sotilaallisia uhkakuvia ei Tšekin horisontissa kuitenkaan näy, koska Slovakian liittyessä Natoon ainoaksi länsiliiton ulkopuoliseksi naapuriksi jää Itävalta. – Armeija ei ole koskaan ollut tšekkien erityisessä suosiossa, ja Nato-jäsenyyskin on paikannut natseille (1939) ja Varsovan liitolle (1968) antautumisen tärväämää mainetta vain osittain. Asepalveluksen lakkauttamista enemmän monia huolestuttaakin siviilipalveluksen päättyminen, halvat sivarit kun ovat turvanneet monia sosiaali- ja terveysalan palveluja, joihin ei muuten olisi ollut varaa. 
+… seuraako kapakkaruoka perässä?
+Tšekkejä puhutti kesällä aito mätäkuun juttu, jonka mukaan EU-jäsenyyden myötä gulassi ja monet muut perinteiset kapakkaruuat joutuisivat pannaan. Tšekin terveysministeriön EU-säännösten mukaisen määräyksen luonnos edellyttää nimittäin ravintolaruokien tarjoilua pääsääntöisesti kolmen tunnin kuluessa valmistuksesta. Gulassin tapaisten ruokien on kuitenkin Tšekissä väitetty suorastaan paranevan muhiessaan tunti- tai jopa päiväkausia. EU-tuohtumus kuitenkin laimeni, kun selvisi, että samanlainen sääntö on ollut voimassa Tšekissä jo 1980-luvulta lähtien, mutta sitä ei vain ole noudatettu.  
+EU-säädöksissä ei mainita mitään tiukkoja aikarajoja, vaan velvoitetaan jäsenmaat ylipäätään huolehtimaan riittävästä elintarvikehygieniasta. Terveysministeriö puolestaan vetoaa YK:n selvityksiin, joiden mukaan pitkällinen muhiminen alle 60 asteessa johtaa pöpöjen voimakkaaseen lisääntymiseen ruuassa. Ravintoloitsijoiden ehdottama lämpötilan pitäminen yli 65 asteen taas murentaisi ruuan ravintoarvon tuntien kuluessa. Hygieenikot vaativatkin kokkeja opettelemaan pienempien erien valmistamisen sen sijaan, että keitettäisiin kerralla monen päivän annoksia. 

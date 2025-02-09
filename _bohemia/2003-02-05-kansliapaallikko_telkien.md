@@ -1,0 +1,14 @@
+---
+title: Kansliapäällikkö telkien taa
+layout: clanek
+date: 2003-02-05 00:00:00 +0200
+category: bohemia
+tags: [fi]
+volume: 2003
+issue: 2-3
+---
+ylioikeus piti voimassa alioikeuden tuomion, jolla Karel Srba – liikemies, Tšekin ulkoministeriön entinen kansliapäällikkö ja entinen salainen agentti – tuomittiin toimittaja Sabina Slonkován murhan valmistelusta kahdeksaksi vuodeksi vankeuteen. Ylioikeus katsoi näytetyksi toteen, että Srba oli pyytänyt ystäväänsä järjestelemään häntä lahjusten ottamisesta epäilleen toimittajan murhan. Tuomio on lainvoimainen, joskin korkein oikeus voi halutessaan ottaa asian vielä käsiteltäväkseen ja puolustus harkitsee myös perustuslaki- ja Euroopan ihmisoikeustuomioistuimeen vetoamista. 
+	Srban lisäksi myös kolmen muun syytetyn vankeustuomiot pysyivät voimassa: murhajärjestelyjä hoitanutta ystävätärtä odottaa kuuden vuoden ja hänen palkkaamaansa yrittäjäkaksikkoa kuuden ja neljän vuoden linnareissut. Parivaljakko oli hankkinut veritekoa varten Tšekin räjähdeteollisuuden menestystuotetta Semtexiä, jonka myyjä selvisi ehdonalaisella ja sakoilla. Murhajärjestelyihin sotkeentuneista kuiville jäi ainoastaan likaisimman työn tekijäksi palkattu moninkertainen rikoksenuusija, joka kävikin narauttamassa koko hankkeen poliisille.  
+	Srban mukaan hän ei tiennyt murhahankkeesta mitään, vaan muut syytetyt yrittävät vain kaataa jutun hänen niskaansa. Srban mukaan pelissä on myös poliittisia intressejä, sillä hänellä on tietoja, jotka huolestuttavat vallanpitäjiä. (Entinen ulkoministeri ja tuomitun esimies Jan Kavan ei ole vieläkään suostunut kommentoimaan tapausta.) Srban puolustus argumentoim myös, ettei moinen ammattilainen olisi voinut hoitaa murhajärjestelyjä näin typerällä tavalla – Srballa kun on kokemusta valonarista puuhista armeijan tiedustelupalvelun agenttina. Tämäkin toiminta on nyt suurennuslasin alla, koska on väitetty, että Srba on ollut mukana hankkimassa armeijan tiedustelupalvelulle budjetin ulkopuolisia tuloja mm. Moskovassa sijaitsevan Tšekin valtiolle kuluvan kiinteistön avulla. 
+	Muut murhavalmisteluista syytetyt taas väittivät, etteivät he suinkaan pyrkineet murhaamaan Slonkováta, vaan ainoastaan antamaan tälle selkäsaunan. Puolustus oli kuitenkin kovin huteralla pohjalla, sillä kuultuaan murhahankkeesta poliisi alkoi kuunnella epäiltyjen puheluja. Kuuntelunauhoille tallentui muun muassa, kuinka poliisin järjestämä väärä uutinen Slonkován kuolemasta nostatti syytettyjen keskuudessa suurta iloa. 
+	Ylioikeuden istunnosta piti tulla Tšekin ensimmäinen suorana televisioitu oikeudenkäynti, mutta lähetys jouduttiin keskeyttämään puolen tunnin jälkeen, kun murhahommiin palkattu yrittäjäkaksikko ilmoitti pitävänsä lähetystä stressaavana. Lähetys sai jatkua vasta, kun tuomiolauselmaa alettiin lukea. 

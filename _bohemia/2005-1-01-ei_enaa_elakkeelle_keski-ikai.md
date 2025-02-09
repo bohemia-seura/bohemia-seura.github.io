@@ -1,0 +1,15 @@
+---
+title: Ei enää eläkkeelle keski-ikäisenä
+layout: clanek
+date: 2005-1-01 00:00:00 +0200
+category: bohemia
+tags: [fi]
+volume: 2005
+issue: 1
+---
+  
+Samaan aikaan kun EU:n vanhoissa jäsenmaissa kaavaillaan jopa 70 vuoden eläkeiästä, tšekit saavat vielä pitkään nauttia alhaisesta eläkeiästä. Eläkelakia on muutettu jo kahdesti vuoden 1989 jälkeen. Nykyään eläkeikä nousee kahdella kuukaudella joka vuosi, ja vuonna 2007 se nousee miehillä jo 62 vuoteen. Lapsettomat naiset jäävät vuonna 2007 eläkkeelle 61-vuotiaina ja viiden ja useamman lapsen äidit 56-vuotiaina. Eläkeikää on tarkoitus nostaa senkin jälkeen samaan tahtiin, niin että miehet jäisivät vuonna 2013 eläkkeelle 63-vuotiaina. Kaikkien naisten eläkeikä on määrä nostaa 63 vuoteen vuonna 2025.
+
+Koska tšekkien keskimääräinen elinikä on viimeisten 15 vuoden aikana noussut nopeasti ja sodan aikana vuosina 1940–45 syntyneet suuret ikäluokat alkavat jo olla eläkeiässä, kohdistuu eläkejärjestelmään paineita. Nykyisen hallituksen ohjelmassa on eläkeuudistus, ja sen asettama asiantuntijaryhmä on jo valmistellut erilaisia uudistusehdotuksia. Ryhmä ehdottaa niinkin radikaaleja muutoksia kuin eläkeiän nostamista vähitellen 65 vuoteen tai eläkkeiden nostamista vain inflaation verran eikä palkkaindeksin mukaan, niin kuin nykyään. Ryhmän asiantuntijat eivät kuitenkaan usko, että nämäkään keinot pelastaisivat valtion eläkejärjestelmän, vaan ehdottavat, että yksilöllisen eläkesäästämisen osuutta olisi lisättävä. Näin selvittäisiin murroksesta, joka koittaa 1970-luvun suurten ikäpolvien jäädessä eläkkeelle 2035–2040. Sosiaalidemokraatit kannattavat virtuaalisia eläketilejä ja eläkkeen laskemista todellisten työtulojen ja valtion rahatilanteen perusteella. Useimmiten eläke jäisi nykyistä pienemmäksi. Porvarillinen ODS taas maksaisi valtion kassasta eläkettä 20–30 prosenttia palkasta, mutta samalla pakolliset eläkemaksut puolitettaisiin. Kansalaiset saisivat itse päättää, sijoittavatko säästyneet rahansa eläkerahastoihin vai tekevätkö niillä jotain muuta. Kristillisdemokraatit ja oikeistolainen Vapauden liitto taas kannattavat pakollista eläkesäästämistä ja työntekijän oikeutta päättää itse, millaisiin rahastoihin osan eläkemaksuistaan sijoittaa. Kommunistien mielestä nykyinen järjestelmä on hyvä, mutta eläkemaksuja on tarpeen mukaan nostettava ja suurituloisten verotusta kiristettävä, jotta valtion budjetissa riittää rahaa eläkkeisiin.
+
+Tällä hetkellä kaikki eläkkeet maksetaan valtion budjetista, johon palkoista pidätettävät eläkemaksut menevät. Keskimääräinen eläke Tšekissä on tänä vuonna n. 7 700 kruunua (n. 260 euroa), 39,3 prosenttia keskipalkasta. Tšekki on sitoutunut kansainväliseen sopimukseen, jonka mukaan keskieläke ei saa laskea alle 40 prosenttiin keskipalkasta. Vuoden 1989 jälkeen keskimääräisen eläkkeen ostovoima on noussut 2,6 prosenttia. 

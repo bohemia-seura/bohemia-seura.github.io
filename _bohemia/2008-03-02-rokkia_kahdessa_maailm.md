@@ -1,0 +1,20 @@
+---
+title: Rokkia kahdessa maailmassa
+layout: clanek
+date: 2008-03-02 00:00:00 +0200
+category: bohemia
+tags: [fi]
+volume: 2008
+issue: 3
+---
+Tom Stoppard: Rock’n’roll. Helsingin kaupunginteatteri, ensi-ilta 4.9.2008. Ohjaus Kari Rentola, käännös Kersti Juva, rooleissa mm. Santeri Kinnunen, Kari Heiskanen, Heidi Herala ja Jouko Klemettilä. 
+Stoppardin näytelmän tapahtumissa liikutaan Prahan ja Cambridgen välillä vuosina 1968–1990. Näitä tapahtumapaikkoja yhdistää tšekkiläinen Jan, joka kotimaassaan ajautuu yhä syvemmälle toisinajattelijoiden joukkoihin ja Cambridgessä taistelee jääräpäisesti marxilaisuuteen uskovan professori Maxin aatemailmaa vastaan. Toinen yhdistävä tekijä, rock’n’roll, löytyy jo näytelmän nimestä. Nuoriso sekä lännessä että idässä elää vahvasti vapautta symboloivan musiikkilajin vaikutuksessa. 
+Näytelmä on Tom Stoppardin tyylille uskollisen tiivis ja täynnä tasoja. Tämä tarjoaa katsojalle paljon, mutta samalla myös haastaa katsojan. Näytelmän moniulotteisuus takaa, että esityksellä on annettavaa useille erilaisille katsojaryhmille. Rock’n’rollissa on tiiviin tekstin lisäksi monin paikoin dokumentinkaltaisia elementtejä. Vaikka tapahtumat eivät perustukaan suoraan tositapahtumiin, teksti pohjautuu osittain esimerkiksi Havelin ja Kunderan teksteihin. Myös todelliset tapahtumat luovat taustaa näytelmän kohtauksille. Tämän voi kuitenkin kuvitella olevan näytelmän heikko kohta tšekkiläiselle kyseisen ajanjakson eläneelle yleisölle, sillä Englannista tapahtumia tarkkailleen kirjailijan teoksesta uupuu annos omakohtaisuutta. Pintaraapaisu tuttuine, kärjistettyine yksityiskohtineen uponnee paremmin nuoremmalle tšekkiyleisölle tai vaikkapa ulkomaisille bohemisteille. Ummikkoyleisölle, joka ei erityisemmin tunne vuoden 1968 ja sen jälkeisiä tapahtumia, jotkin näytelmän ulottuvuudet jäänevät silti saavuttamattomiksi.  
+Tšekkoslovakian historian lisäksi näytelmässä käsiteltävät teemat ovat myöskin melkoisen erikoistuneita: sapfolaista runoutta, marxismia ja psykedeelistä rokkia. Useammalla katselukerralla näytelmästä voisi paljastuakin aivan uusia maailmoja. Kääntäjä Kersti Juva kertoi Kaupunginteatterin näytösesittelyssä löytäneensä käsikirjoituksesta pureksittavaa vielä näytelmän harjoituksissakin. 
+Rock’n’roll on rakennettu niin, että lähestulkoon puolet näyttelijöistä esittää useamman roolin. Koskettavimmin näyttelijöistä onnistuu Heidi Herala kaksoisroolissaan syöpää sairastavana runoudentutkija Eleanorena ja tämän huumeiden raunioittamana tyttärenä Esmenä. 
+Veera Knuuti ja Petra Virtanen 
+näytelmän esittely esitysaikataulu Tom Stoppard
+Näytelmäkirjailija Tom Stoppard, alkuperäiseltä nimeltään Tomáš Straussler, syntyi vuonna 1937 Tšekkoslovakian Zlínissä, missä hänen isänsä oli lääkärinä Batan sairaalassa. Perhe pakeni juutalaistaustansa vuoksi maasta Batan neuvosta Singaporeen vuonna 1939, josta lapset ja äiti jatkoivat Intiaan. Isä menehtyi matkalla. Sukunimi Stoppard on peräisin äidin uudelta englantilaiselta aviomieheltä, jonka mukana perhe muutti vuonna 1946 Bristoliin. 
+Stoppard jätti koulunsa kesken 17-vuotiaana ja ryhtyi toimittajaksi. Ensimmäisen näytelmänsä hän kirjoitti vuonna 1960. Kuuluisuuteen Stoppardin nosti vuonna näytelmä Rosencrantz Guildenstern Are Dead vuonna 1964. Oman tuotantonsa ohella Stoppard on myös kääntänyt paljon itäeurooppalasia näytelmiä muun muassa Václav Havelilta ja Slawomir Mrozekilta, mikä on vaikuttanut myös hänen omaan tuotantoonsa. Näytelmien lisäksi Stoppard on tehnyt käsikirjoituksia elokuviin ja avustanut useiden elokuvien dialogien hiomisessa. 
+Stoppard on ollut aktiivinen myös ihmisoikeus- ja sananvapausasioissa 1970-luvun lopulta lähtien. Peruskirja 77 -säätiö on vuodesta 1983 lähtien jakanut Tom Stoppard -palkintoa tšekkitaustaisille kirjailijoille. 
+Suomessa Stoppardin näytelmistä on aiemmin esitetty Rosencrantz Guildenstern Are Dead, nimellä Haukat ja haikarat sekä Arcadia. 

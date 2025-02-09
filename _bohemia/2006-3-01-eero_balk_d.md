@@ -1,0 +1,22 @@
+---
+title: Dobro
+layout: clanek
+date: 2006-3-01 00:00:00 +0200
+category: bohemia
+tags: [fi]
+volume: 2006
+issue: 3
+author: eero_balk
+---
+  
+Resonaattorikitara eli dobro on tunnettu amerikkalaisen bluegrass- ja kantrimusiikin instrumenttina. Soittimen kehittäjät ja ensimmäiset valmistajat olivat slovakialaissyntyisiä siirtolaisia. Soittimen nimi dobro perustuu tekijöidensä perustaman yhtiön nimeen Dopyera Brothers.
+
+Kun mylläri Jozef Dopyera vuonna 1908 muutti ison perheensä kanssa Dolná Krupan kylästä Trnavan läheltä silloisesta Unkarin Ylämaasta paremman leivän perässä Kaliforniaan, kukaan ei vielä aavistanut, mitä seurauksia siitä olisi amerikkalaiselle kantrimusiikille. Kaikki Dopyeran 10 lasta olivat musikaalisia ja hyviä käsistään. Esikoinen Ján oli rakentanut ensimmäisen viulunsa isänsä johdolla jo vanhassa kotimaassa, ja Amerikassa soittimista tuli hänen leipäpuunsa. Dopyeran pojat – kaikki viisi veljestä – päätyivät tavalla tai toisella soitinbisnekseen.
+
+1920-luvulla Ján Dopyera – amerikkalaisittain John – piti Los Angelesissa omaa kielisoitinkauppaa ja -korjaamoa. Siellä hän yritti ratkaista äänen vahvistamisen ongelmaa. Vuonna 1926 hän onnistui valmistamaan puurunkoisen kitaran, jonka sisällä oli resonaattoreina kolme alumiinikartiota, ja patentoi sen. Veljiensä ja muiden sijoittajien  kanssa hän perusti firman National String Instrument Corporation. Kun sen Three Plate National -kitarat alkoivat menestyä, Dopyerat irrottautuivat yhtiöstä ja perustivat oman firmansa Dopyera Brothers Inc. Vanha yhtiö valmisti edelleen Nationaleja, ja uudessa Dopyerat kehittivät siitä Dobron. Dobrossa on vain yksi alumiinikartio ja sen sointi on pehmeämpi kuin Nationalin. Uusi soitin patentoitiin Rudy Dopyeran nimellä, jottei kitaran oikeuksista tulisi ongelmia vanhan yhtiön kanssa. Myöhemmin, kun Louis Dopyera osti enemmistön Nationalin osakkeista, yhtiöt yhdistyivät National Dobro Corporationiksi. Hyvää kaikilla kielillä Dobro tarkoittaa slovakin kielessä hyvää. Vaikka kitaran nimi muodostettiin yhtiön nimen sanojen alkukirjaimista, sanan merkitykseen viitattiin sen mainoslauseessa ”Dobro means good in any language” – Dobro tarkoittaa hyvää kaikilla kielillä. Dobro vakiintui aikaa myöten resonaattorikitaran synonyymiksi yleensä, ja siitä tuli erottamaton osa amerikkalaista kansanmusiikkia. Dobrosta on kehitetty eri variantteja, vaikka yleisin on yhä edelleen puinen, sylissä steelkitaran tapaan vingutettava malli, jossa on kulmikas kaula. Pyöreäkaulaisia taas pidetään rinnalla tavallisen kitaran tapaan. Tällaisella dobrolla soitetaan ennen kaikkea bluesia, ja erityisesti slide-tekniikalla, jossa liu’utetaan lasi- tai metalliputkea kieliä pitkin. 
+
+1930-luvulla Dobroja valmistettiin ostamalla kitaran puinen runko muilta soitinvalmistajilta ja lisäämällä siihen alumiinikartio ja kielet. Toisen maailmansodan aikana dobrojen valmistus keskeytyi. Alumiini käytettiin sotatarvikkeisiin, ja National Dobro Corporation lakkautettiin. Louis Dopyeran uusi firma valmisti lentokoneiden osia, mutta keskittyi sodan jälkeen sähkökitaroihin. Sähköisen äänenvahvistuksen keksiminen ja Elviksen suosio merkitsivät resonaattorikitaroiden vaipumista lähes unohduksiin. Dobron uusi tuleminen Folk-musiikin aalto 1960-luvulta lähtien toi dobroille uutta käyttöä, ja Dopyeran nuoremmat veljekset Ed ja Rudy alkoivat valmistaa niitä uudestaan. Nykyään soitinta valmistetaan eri puolilla maailmaa, myös Suomessa, ja yleensä käsityönä. Tšekkiläinen Amistar kuuluu johtaviin dobropajoihin.
+
+Tällä hetkellä dobro elää renessanssia bluegrass-musiikissa. Suomessakin dobro kuuluu useiden kansanmusiikkiyhtyeiden soittimistoon. Trnavassa Dopyeran perheen entisellä kotiseudulla järjestetään vuosittain Dobrofest, jolla jaetaan myös Dopyera-kunniakirjoja. Kenties tunnetuin slovakialainen dobronsoittaja on Ľuboš Beňa, jonka ominta tyyliä on Mississippi Delta -tyyppinen blues. Hän esiintyy eri kokoonpanoissa paitsi klubeilla, myös kaduilla, ja kertoo esiintymisten yhteydessä resonaattorikitaran ja bluesmusiikin historiasta. Beňa pitää yhteyttä vuonna 1988 94-vuotiaana kuolleen Ján Dopyeran poikaan John Edward Dopyeraan, joka vaalii Pennsylvaniassa suvun perinnettä ja valmistaa käsin dobroja. Tällä on myös isoisänsä vielä Slovakiassa rakentamia viuluja. John Edwardin vaimo Margaret Lay-Dopyera on kirjoittanut kirjan perheen tarinasta, ja dobro on päässyt jopa slovakialaiseen postimerkkiin.  
+
+Eero Balk 
