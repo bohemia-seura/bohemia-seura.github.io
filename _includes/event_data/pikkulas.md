@@ -1,5 +1,0 @@
-> *Tradiční akcí koncem kalendářního roku je setkání českých dětí s Mikulášem, které se vžilo jako „Pikkuláš“, což je finsko-česká složenina slov „pikku“ – malý a Mikuláš. Mikuláše doprovodil čert a anděl. Letošní akce se konala 7. prosince 2011 večer. Zastupitelský úřad poskytl prostory, přispěl na občerstvení a zajistil rozeslání pozvánek.*
->
->*Pikkuláše organizují krajanské spolky Česko-finská společnost a  Bohemia a neformální sdružení Finčech. Letos přišlo na oslavu odhadem 30 dětí a přibližně stejný počet rodičů. Všechny děti byly odměněny malým dárkem a na oplátku přednesly básničku nebo zazpívaly. Pro řadu z nich bylo první setkání s adventní tradicí z Čech zážitkem, protože ve Finsku je předvánoční čas spojen především se svátkem svaté Lucie dne 13. prosince. Přestože čert naháněl některým dětem hrůzu, děti odcházely spokojené a rodiče ocenily možnost se sejít na půdě zastupitelského úřadu.*
->
-> Článek na https://www.mzv.cz/helsinki/cz/zpravy_a_udalosti/x2011/mikulas_navstivil_deti_nasich_krajanu.html

@@ -3,17 +3,21 @@ layout: page
 refactor: true
 ---
 
-{% assign title = site.translations[site.lang].events[page.event] %}
+{% assign title = site.data.locales[site.lang].events[page.event] %}
 <h1 data-toc-skip>{{ title }}</h1>
 
-<div class="post-content">
-  {% assign file_name = "event_data/" | append: page.event | append: ".md"  %}
-  {% include {{ file_name }} %}
-</div>
-
 {% if page.event %}
+
+  <h2>{{ site.data.locales[site.lang].post.about_event }}</h2>
+  <div class="post-content">
+
+    {% assign file_name = "event_data/" | append: page.event | append: ".html"  %}
+    {% include {{ file_name }} %}
+
+  </div>
+
   {% if page.images %}
-    <h2>{{ site.data.locales[lang].post.gallery }}</h2>
+    <h2>{{ site.data.locales[site.lang].post.gallery }}</h2>
     <div class ="image-gallery">
       {% for image in page.images %}
         {% assign thumb = page.image_path | append: image.image | replace: '.jpg', '_t.jpg' %}
@@ -30,11 +34,11 @@ refactor: true
         {% else %}
           {% assign image_title = title %}
         {% endif %}
-        <div class="box">
+        <!-- <div class="box"> -->
           <a href="{{ page.image_path }}{{ image.image }}">
             <img src="{{ thumbnail }}" alt="{{ image_title }}"  class="img-gallery" />
           </a>
-        </div>
+        <!-- </div> -->
       {% endfor %}
     </div>
   {% endif %}
@@ -54,9 +58,9 @@ refactor: true
     {% endfor %}
     {% if events %}
     {% assign events = events | reverse %}
-      <h2>{{ site.data.locales[lang].post.calendar }}</h2>
+      <h2>{{ site.data.locales[site.lang].post.calendar }} {{title}}</h2>
       {% for event in events %}
-        <li>{{ event.date | date: "%d.%m.%Y" }} - {{ event.name[lang] }}</li>
+        <li>{{ event.date | date: "%d.%m.%Y" }} - {{ event.name[site.lang] }}</li>
       {% endfor %}
     {% endif %}
     </ul>

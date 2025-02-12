@@ -776,13 +776,86 @@
   categories:
     - pohadkova_sobota
 
-- date: 2024-05-25
+- date: 2024-05-05
   name:
-    cs: Pohádková sobota
-    sk: Sobotné stretnutie s krajanmi
-  place: Luukin Ulkoilualue
+    cs: Nedělní koncert
+  place: Töölön kirjasto, Helsinki
+  categories:
+    - koncert
+
+- date: 2024-06-02
+  name:
+    cs: Piknik na Suomenlinna
+  place: Suomenlinna
+  categories:
+    - piknik
+
+- date: 2024-08-31
+  name:
+    cs: Sobotní setkání s krajany - sportovní aktivity a opékačka
+    sk: Sobotné stretnutie s krajanmi - športové aktivity a opekačka
+  place: Luukin Ulkoilualue, Espoo
   categories:
     - pohadkova_sobota
     - sportovni_den
 
-    
+- date: 2024-09-10
+  name:
+    cs: Koncert českých a finských skladeb
+    fi: Konsertti - Tšekkiläisiä ja suomalaisia sävellyksiä
+  place: Rikhardinkadun kirjasto, Helsinki
+  categories:
+    - koncert
+
+- date: 2024-10-05
+  name:
+    cs: Sobotní setkání s krajany - pouštění draků
+    sk: Sobotné stretnutie krajanov - púšťanie šarkanov
+  place: Espoon Steinerkoulu, Espoo
+  categories:
+    - drakiada
+    - pohadkova_sobota
+
+- date: 2024-11-09
+  name:
+    cs: Taneční zábava
+  place: Vartiokylän työväentalo, Helsinki
+  categories:
+    - tanecni_zabava
+
+- date: 2024-11-23
+  name:
+    cs: Sobotní setkání s krajany - lampionový průvod
+    sk: Sobotné stretnutie krajanov - lampionový sprievod
+  place: Helsinki
+  categories:
+    - lampionovy_pruvod
+    - pohadkova_sobota
+
+- date: 2024-12-14
+  name:
+    cs: Mikuláš
+  place: Roihuvuoren Nuorisotalo, Helsinki
+  categories:
+    - pikkulas
+
+- date: 2025-01-19
+  name:
+    cs: Masopustní veselice
+  place: Kumpulan Kylätila, Helsinki
+  categories:
+    - masopust
+
+- date: 2025-01-29
+  name:
+    cs: Členská schůze spolku Bohemia
+  place: Töölön kirjasto, Helsinki
+  categories:
+    - setkani
+
+- date: 2025-03-26
+  name:
+    cs: Slovenský a český literární večer
+  place: Töölön kirjasto, Helsinki
+  categories:
+    - beseda
