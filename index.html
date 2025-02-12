@@ -1,4 +1,47 @@
 ---
-layout: home
+layout: page
 # Index page
 ---
+
+<p><i>
+Na stránkách se pracuje. Připravujeme jazykové verze a další obsah. Děkujeme za strpení.
+</i></p>
+
+<h2>
+Vítejte na stránkách kulturního a krajanského spolku Bohemia ry
+</h2>
+
+<p>
+Spolek založili v roce 1993 ve Finsku žijící Češi a Slováci a jejich finští přátelé. Spolek vznikl za účelem rozšiřovat ve Finsku povědomí o české, moravské a slovenské kultuře, jazyku, společnosti a historii. Spolek vznikl víceméně spontánně u kavárenského stolu v Helsinkách.
+</p><p>
+Spolek v letech 1994 - 2009 vydával stejnojmenný časopis Bohemia, který obsahoval zajímavosti a aktuální informace z kultury, historie, politiky a vědy. Vydávání kulturního časopisu bylo vlastně prvotním podnětem pro vznik spolku. Časopis byl podporován z příspěvků Ministerstva zahraničních věcí ČR a finského ministerstva kultury.
+</p><p>
+Bohemia od svého vzniku pořádá kulturně-společenské semináře, tradiční piknik na Suomenlinna a oslavu Pikkuláš, což je spojení Mikuláše a finského Pikkujoulu. Hlavním posláním spolku bylo mimo vydávání časopisu také organizování tak zvaného posezení u piva. Členové se setkávali každý první čtvrtek v měsíci v (dnes již neexistující) hospodě Hádanka na ulici Mannerheimintie.
+</p><p>
+Když v roce 1998 vzniklo neorganizované krajanské uskupení Finčech, pořádala Bohemia a Finčech posezení u piva v Hádance společně až do cca. roku 2000, kdy se členové začali setkávat v hospodě Milenka a poté v restauraci Vltava.
+</p><p>
+V posledních letech se spolek výrazněji profiluje jako krajanský. Spolek Bohemia spojuje krajany s finskými zájemci o český a slovenský jazyk a kulturu, pořádá pohádkové soboty, filmové večery a další akce pro krajany, jejich přátele a rodiny.
+</p><p>
+Spolek Bohemia je financován z člesnkých příspěvků a v současnosti je také finančně podporován z Programu podpory českého kulturního dědictví Ministerstva zahraničních věcí České republiky a Úřadu pro Slováky žijící v zahraničí Slovenské republiky. Na pořádání krajanských akcí spolupracujeme aktivně s českým a slovenským velvyslanectvím v Helsinkách.
+</p>
+
+<h2>
+Vedení spolku
+</h2>
+{% for period in site.data.board %}
+    <div><b>{{ period.start_year }}-{{ period.end_year }}</b></div>
+    <div>Přeseda/předsedkyně: {{ period.chair }}</div>
+    {% if period.deputy %}
+        <div>Místopřeseda/místopředsedkyně: {{ period.deputy }}</div>
+    {% endif %} 
+    {% if period.finance %}
+        <div>Hospodář/hospodářka: {{ period.finance }}</div>
+    {% endif %}
+    <div>Další členové:
+    {% for member in period.members %}
+        {{ member }},
+    {% endfor %}
+    </div>
+    <p></p>
+{% endfor %}
+    

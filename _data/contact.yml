@@ -1,23 +1,22 @@
 #  The contact options.
 
-# - type: github
-#   icon: "fab fa-github"
-
-# - type: twitter
-#   icon: "fa-brands fa-x-twitter"
-
 - type: email
-  icon: "fas fa-envelope"
+  icon: 'fas fa-envelope'
   noblank: true # open link in current tab
 
 - type: facebook
   icon: 'fa-brands fa-facebook'
-  url: ''                   # Fill with your Threads profile link
+  url: 'https://www.facebook.com/finbohemia'                  
 
+# - type: github
+#   icon: "fab fa-github"
+#
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
+#
 # - type: rss
 #   icon: "fas fa-rss"
 #   noblank: true
-# Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
