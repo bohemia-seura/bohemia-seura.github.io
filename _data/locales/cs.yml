@@ -21,21 +21,21 @@ tabs:
 
 # events
 events:
-  beseda: Beseda
-  divadlo: Divadlo
+  beseda: Besedy
+  divadlo: Divadelní představení
   drakiada: Pouštění draků
-  koncert: Koncert
-  lampionovy_pruvod: Lampionový průvod
-  masopust: Masopust
-  pikkulas: Mikulášská besídka
-  piknik: Piknik
-  pohadkova_sobota: Pohádková sobota
-  promitani: Promítání filmu
+  koncert: Koncerty
+  lampionovy_pruvod: Lampionové průvody
+  masopust: Masopustní veselice
+  pikkulas: Mikulášské besídky
+  piknik: Tradiční piknik na ostrově Suomenlinna
+  pohadkova_sobota: Pohádkové soboty
+  promitani: Promítání filmů
   setkani: Setkání s krajany
-  sportovni_den: Sportovní den
-  tanecni_zabava: Taneční zábava
+  sportovni_den: Sportovní dny
+  tanecni_zabava: Taneční zábavy
   velikonoce: Velikonoce
-  vylet: Výlet
+  vylet: Výlety
 
 # posts related labels
 post:

@@ -7,11 +7,32 @@
     - Ján Goč
     - Julia Doležalová
 
-- start_year: 2019
+- start_year: 2023
   end_year: 2025
+  chair: Romana Mázerová
+  finance: Iveta Podobinská
+  members:
+    - Petr Hradil
+    - Julia Doležalová
+    - Eva Valkovičová
+    - Lenka Harju
+
+- start_year: 2021
+  end_year: 2023
   chair: Romana Mázerová
   finance: Iveta Podobinská
   members:
     - Sampo Saari
     - Petr Hradil
     - Julia Doležalová
+    - Eva Valkovičová
+
+- start_year: 2019
+  end_year: 2021
+  chair: Romana Mázerová
+  finance: Iveta Podobinská
+  members:
+    - Sampo Saari
+    - Petr Hradil
+    - Julia Doležalová
+
