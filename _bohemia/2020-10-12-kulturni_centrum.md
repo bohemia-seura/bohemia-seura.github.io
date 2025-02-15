@@ -4,8 +4,6 @@ layout: clanek
 date: 2020-10-12 00:00:00 +0200
 category: bohemia
 tags: [cz] # TAG names should always be lowercase
-volume: 2020
-issue: 0
 author: magdalena_kosova
 ---
 

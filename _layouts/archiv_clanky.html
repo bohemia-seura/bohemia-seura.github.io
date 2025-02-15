@@ -3,41 +3,41 @@
 layout: page
 ---
 
-{% if site.lang == "cs" %}
-  {% assign lang_url = '' %}
-{% elsif site.lang == "sk" %}
-  {% assign lang_url = '/sk' %}
-{% elsif site.lang == "fi" %}
-  {% assign lang_url = '/fi' %}
-{% endif %}
-
-{% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
-{% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
-
 <div id="clanky" class="pl-xl-3">
-
-{% assign last_year = 0 %}
 {% assign posts = site.bohemia | reverse %}
+{% assign volumes = '' | split: '' %}
+<div class="year lead">Nezařazené články</div>
+<ul class="list-unstyled">
 {% for post in posts %}
-
-  {% capture cur_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-
-  {% if cur_year != last_year %}
-      {% unless last_year == 0 %}</ul>{% endunless %}
-      <div class="year lead">{{ cur_year }}</div>
-      <ul class="list-unstyled">
-      {% assign last_year = cur_year %}
-  {% endif %}
-
-  <li>
-  {% assign title = post.title %}
-  {% if post.author %}
-    {% assign title = site.data.authors[post.author].name | append: ": " | append: title %}
-  {% endif %}
-      <a href="{{ site.baseurl_root }}{{ lang_url }}{{ post.url }}">{{ title }}</a>
-  </li>
-
-  {% if forloop.last %}</ul>{% endif %}
+    {% if post.volume %}
+      {% if volumes contains post.volume %}
+        {% continue %}
+      {% else %}
+        {% assign volumes = volumes | push: post.volume %}
+      {% endif %}
+    {% else %}
+      {% assign title = post.title %}
+      {% if post.author %}
+        {% assign title = site.data.authors[post.author].name | append: ": " | append: title %}
+      {% endif %}
+      <li><a href="{{ site.baseurl_root }}{{ post.url }}">{{ title }}</a></li>
+    {% endif %}
 {% endfor %}
+</ul>
+{% assign volumes = volumes | sort | reverse %}
 
+{% for volume in volumes %}
+  <div class="year lead">Ročník {{ volume }}</div>
+  <ul class="list-unstyled">
+  {% for post in posts %}
+    {% if post.volume == volume %}
+    {% assign title = post.title %}
+      {% if post.author %}
+        {% assign title = site.data.authors[post.author].name | append: ": " | append: title %}
+      {% endif %}
+      <li><a href="{{ site.baseurl_root }}{{ post.url }}">{{ title }}</a></li>  
+    {% endif %}
+  {% endfor %}
+  </ul>
+{% endfor %}  
 </div>

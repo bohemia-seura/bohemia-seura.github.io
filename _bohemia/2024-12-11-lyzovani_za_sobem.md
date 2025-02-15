@@ -4,8 +4,6 @@ layout: clanek
 date: 2024-12-11 00:00:00 +0200
 category: bohemia
 tags: [cz] # TAG names should always be lowercase
-volume: 2024
-issue: 0
 author: petr_hradil
 ---
 

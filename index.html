@@ -30,16 +30,41 @@ Vedení spolku
 </h2>
 {% for period in site.data.board %}
     <div><b>{{ period.start_year }}-{{ period.end_year }}</b></div>
-    <div>Přeseda/předsedkyně: {{ period.chair }}</div>
+    {% assign member = period.chair %}
+    <div>Přeseda/předsedkyně: 
+    {% if site.data.authors[member].name %}
+        <a href="{{ site.baseurl_root }}lide.html#{{ member }}">{{ site.data.authors[member].name }}</a>
+    {% else %}
+        {{ member }}
+    {% endif %}
+    </div>
     {% if period.deputy %}
-        <div>Místopřeseda/místopředsedkyně: {{ period.deputy }}</div>
+        {% assign member = period.deputy %}
+        <div>Místopřeseda/Místopředsedkyně: 
+            {% if site.data.authors[member].name %}
+                <a href="{{ site.baseurl_root }}lide.html#{{ member }}">{{ site.data.authors[member].name }}</a>
+            {% else %}
+                {{ member }}
+            {% endif %}
+        </div>
     {% endif %} 
     {% if period.finance %}
-        <div>Hospodář/hospodářka: {{ period.finance }}</div>
+        {% assign member = period.finance %}
+        <div>Hospodář/Hospodářka: 
+            {% if site.data.authors[member].name %}
+                <a href="{{ site.baseurl_root }}lide.html#{{ member }}">{{ site.data.authors[member].name }}</a>
+            {% else %}
+                {{ member }}
+            {% endif %}
+        </div>
     {% endif %}
     <div>Další členové:
     {% for member in period.members %}
-        {{ member }},
+        {% if site.data.authors[member].name %}
+            <a href="{{ site.baseurl_root }}lide.html#{{ member }}">{{ site.data.authors[member].name }}</a>,
+        {% else %}
+            {{ member }},
+        {% endif %}
     {% endfor %}
     </div>
     <p></p>

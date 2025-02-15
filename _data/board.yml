@@ -1,38 +1,38 @@
 - start_year: 2025
   end_year: 
-  chair: Johana Kuncová-Kallio
-  deputy: Romana Mázerová
-  finance: Mili Životková
+  chair: johana_kuncova
+  deputy: romana_mazerova
+  finance: mili_zivotkova
   members:
-    - Ján Goč
-    - Julia Doležalová
+    - jan_goc
+    - julia_dolezalova
 
 - start_year: 2023
   end_year: 2025
-  chair: Romana Mázerová
-  finance: Iveta Podobinská
+  chair: romana_mazerova
+  finance: iveta_podobinska
   members:
-    - Petr Hradil
-    - Julia Doležalová
-    - Eva Valkovičová
-    - Lenka Harju
+    - petr_hradil
+    - julia_dolezalova
+    - eva_valkovicova
+    - lenka_harju
 
 - start_year: 2021
   end_year: 2023
-  chair: Romana Mázerová
-  finance: Iveta Podobinská
+  chair: romana_mazerova
+  finance: iveta_podobinska
   members:
-    - Sampo Saari
-    - Petr Hradil
-    - Julia Doležalová
-    - Eva Valkovičová
+    - sampo_saari
+    - petr_hradil
+    - julia_dolezalova
+    - eva_valkovicova
 
 - start_year: 2019
   end_year: 2021
-  chair: Romana Mázerová
-  finance: Iveta Podobinská
+  chair: romana_mazerova
+  finance: iveta_podobinska
   members:
-    - Sampo Saari
-    - Petr Hradil
-    - Julia Doležalová
+    - sampo_saari
+    - petr_hradil
+    - julia_dolezalova
 

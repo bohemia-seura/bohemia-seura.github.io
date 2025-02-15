@@ -4,8 +4,6 @@ layout: clanek
 date: 2022-05-15 00:00:00 +0200
 category: bohemia
 tags: [fi] # TAG names should always be lowercase
-volume: 2022
-issue: 0
 author: marketa_hejkalova
 ---
 

@@ -1,0 +1,36 @@
+---
+layout: page
+refactor: true
+---
+{% for author in site.data.authors %}
+    <p><a name="{{ author[0] }}" href="{{ author[1].url }}">{{ author[1].name }}</a><br>
+    <ul>
+    {% assign p_start = 0 %}
+    {% assign p_end = 0 %}
+    {% for period in site.data.board %}
+        {% if period.chair == author[0] or period.deputy == author[0] or period.finance == author[0] or period.members contains author[0]%}
+            {% if p_end == 0 %}
+                {% assign p_end = period.end_year %}
+            {% endif %}  
+            {% assign p_start = period.start_year %}
+        {% else %}
+            {% if p_start > 0 %}
+                <li>Vedení spolku: {{ p_start }}-{{ p_end }}</li>
+            {% endif %}
+            {% assign p_start = 0 %}
+            {% assign p_end = 0 %}
+        {% endif %} 
+    {% endfor %}
+    {% if p_start > 0 %}
+        <li>Vedení spolku: {{ p_start }}-{{ p_end }}</li>
+    {% endif %}
+    {% for post in site.bohemia %}
+        {% if post.author == author[0] %}
+            <li>Bohemia {{ post.volume }}/{{ post.issue }}: <a href="{{ site.baseurl_root }}{{ lang_url }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+        {% if post.translated == author[0] %}
+            <li>Bohemia {{ post.volume }}/{{ post.issue }}: <a href="{{ site.baseurl_root }}{{ lang_url }}{{ post.url }}">{{ post.title }}</a> (překlad)</li>
+        {% endif %}
+    {% endfor %}
+    </ul><hr>
+{% endfor %}
