@@ -1,7 +1,9 @@
 ---
-# The Archives of posts with a certain category.
+# Šablona pro generování seznamu článků časopisu Bohemia
 layout: page
 ---
+
+<!-- Seznam nezařazených článků -->
 
 <div id="clanky" class="pl-xl-3">
 {% assign posts = site.bohemia | reverse %}
@@ -18,14 +20,17 @@ layout: page
     {% else %}
       {% assign title = post.title %}
       {% if post.author %}
-        {% assign title = site.data.authors[post.author].name | append: ": " | append: title %}
+        {% assign title = site.data.people[post.author].name | append: ": " | append: title %}
       {% endif %}
       <li><a href="{{ site.baseurl_root }}{{ post.url }}">{{ title }}</a></li>
     {% endif %}
 {% endfor %}
 </ul>
-{% assign volumes = volumes | sort | reverse %}
 
+<!-- Seznam článků podle ročníku -->
+
+{% assign volumes = volumes | sort | reverse %}
+<a name="casopis"></a>
 {% for volume in volumes %}
   <div class="year lead">Ročník {{ volume }}</div>
   <ul class="list-unstyled">
@@ -33,7 +38,7 @@ layout: page
     {% if post.volume == volume %}
     {% assign title = post.title %}
       {% if post.author %}
-        {% assign title = site.data.authors[post.author].name | append: ": " | append: title %}
+        {% assign title = site.data.people[post.author].name | append: ": " | append: title %}
       {% endif %}
       <li><a href="{{ site.baseurl_root }}{{ post.url }}">{{ title }}</a></li>  
     {% endif %}

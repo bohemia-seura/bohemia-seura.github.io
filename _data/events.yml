@@ -1,3 +1,13 @@
+# Seznam akcí
+# Nové akce přidávejte na konec seznamu
+# Datum akce ve formátu YYYY-MM-DD
+# Jméno akce může být česky (cs), slovensky (sk) nebo finsky (fi)
+# Kategorie musí odpovídat jedné z kategorií ve složce "_events"
+# K akci je možné přidat odkaz (url: [url]) na externí stránku
+# K akci je možné přidat poster (poster: [soubor.jpg]) uložený ve složce "posters"
+# K akci je možné přidat seznam organizátorů (organisers: [seznam jmen*])
+# * - Nová jména přidejte do seznamu "_data/people.yml"
+
 - date: 2010-11-12
   name:
     cs: Mikulášská oslava
@@ -219,6 +229,8 @@
 - date: 2019-08-24
   name:
     cs: Výlet do Nuuksia
+  organisers:
+    - petr_hradil
   categories:
     - vylet
 
@@ -634,6 +646,7 @@
   name:
     cs: Promítání filmu Piargy
   place: K13
+  poster: 2023-04-13-Piargy.jpg
   categories:
     - promitani
 
@@ -671,6 +684,8 @@
   name:
     cs: Výlet do Nuuksia
   place: Kattilantie 426, FI-02820 Espoo, Suomi
+  organisers:
+    - petr_hradil
   categories:
     - vylet
 
@@ -857,5 +872,6 @@
   name:
     cs: Slovenský a český literární večer
   place: Töölön kirjasto, Helsinki
+  poster: 2025-03-26-literarni_vecer.jpg
   categories:
     - beseda

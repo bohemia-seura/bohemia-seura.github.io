@@ -1,4 +1,13 @@
 ---
+# Šablona pro článek časopisu Bohemia
+# Články jsou uloženy ve složce "_bohemia" ve formátu ".md"
+# V záhlaví článku uveďte:
+#   title: [název článku]
+#   layout: clanek
+#   volume: [ročník (nepovinné)]
+#   issue: [číslo (nepovinné)]
+#   author nebo authors: [jméno autora nebo seznam autorů]
+#   translated: [jméno překladatele]
 layout: page
 refactor: true
 panel_includes:
@@ -46,7 +55,7 @@ tail_includes:
       <em>
       {% if authors %}
         {% for author in authors %}
-          <a href="{{ site.url }}/lide.html#{{ author }}">{{ site.data.authors[author].name }}</a>
+          <a href="{{ site.url }}/lide.html#{{ author }}">{{ site.data.people[author].name }}</a>
           {% unless forloop.last %}</em>, <em>{% endunless %}
         {% endfor %}
       {% else %}
@@ -65,7 +74,7 @@ tail_includes:
   {% if page.translated %}
     {{ site.data.locales[lang].post.translated_by }}
     <em>
-      <a href="{{ site.data.authors[page.translated].url }}">{{ site.data.authors[page.translated].name }}</a>
+      <a href="{{ site.data.people[page.translated].url }}">{{ site.data.people[page.translated].name }}</a>
     </em>
   {% endif %}
 

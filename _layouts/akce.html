@@ -1,4 +1,5 @@
 ---
+# Šablona pro souhrnnou stránku typu akce
 layout: page
 refactor: true
 ---
@@ -8,13 +9,15 @@ refactor: true
 
 {% if page.event %}
 
+<!-- Popis typu akce (například _includes/event_data/beseda.html) -->
+
   <h2>{{ site.data.locales[site.lang].post.about_event }}</h2>
   <div class="post-content">
-
     {% assign file_name = "event_data/" | append: page.event | append: ".html"  %}
     {% include {{ file_name }} %}
-
   </div>
+
+<!-- Fotogalerie typu akce (například ve složce photos/beseda/) -->
 
   {% if page.images %}
     <h2>{{ site.data.locales[site.lang].post.gallery }}</h2>
@@ -43,6 +46,8 @@ refactor: true
     </div>
   {% endif %}
 
+<!-- Kalendář typu akce -->
+
   <div id="kalendar" class="pl-xl-3">
     <ul class="list-unstyled">
     {% for event in site.data.events %}
@@ -57,10 +62,20 @@ refactor: true
       {% endfor %}
     {% endfor %}
     {% if events %}
-    {% assign events = events | reverse %}
+      {% assign events = events | reverse %}
       <h2>{{ site.data.locales[site.lang].post.calendar }} {{title}}</h2>
       {% for event in events %}
-        <li>{{ event.date | date: "%d.%m.%Y" }} - {{ event.name[site.lang] }}</li>
+        {% assign url = event.url %}
+        {% if event.url %}
+          {% assign url = event.url %}
+        {% elsif event.poster %}
+          {% assign url = site.baseurl_root | append: "posters/"| append: event.poster %}
+        {% endif %}
+        {% if url %}
+          <li><a href="{{ url }}">{{ event.date | date: "%d.%m.%Y" }} - {{ event.name[site.lang] }}</a></li>
+        {% else %}
+          <li>{{ event.date | date: "%d.%m.%Y" }} - {{ event.name[site.lang] }}</li>
+        {% endif %}  
       {% endfor %}
     {% endif %}
     </ul>
