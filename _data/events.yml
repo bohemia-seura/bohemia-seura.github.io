@@ -1,12 +1,17 @@
 # Seznam akcí spolku Bohemia
+#-------------------------------------------------------------------------------------
 # Nové akce přidávejte na konec seznamu
 # Datum akce ve formátu YYYY-MM-DD
-# Jméno akce může být česky (cs), slovensky (sk) nebo finsky (fi)
+# Jméno akce může být česky (cs), slovensky (sk) a finsky (fi)
+# K akci je možné přidat jednu nebo více kategorií (categories: [seznam názvů])
 # Kategorie musí odpovídat jedné z kategorií ve složce "_events"
+#    například beseda, divadlo, drakiada, lampionovy_pruvod, masopust, pikkulas, piknik,
+#    pohadkova_sobota, promitani, setkani, sportovni_den, tanecni_zabava, velikonoce, vylet
 # K akci je možné přidat odkaz (url: [url]) na externí stránku
 # K akci je možné přidat poster (poster: [soubor.jpg]) uložený ve složce "posters"
-# K akci je možné přidat seznam organizátorů (organisers: [seznam jmen*])
-# * - Nová jména přidejte do seznamu "_data/people.yml"
+# K akci je možné přidat seznam organizátorů (organisers: [seznam jmen])
+#    nová jména přidejte do seznamu "_data/people.yml"
+#-------------------------------------------------------------------------------------
 
 - date: 2010-11-12
   name:
