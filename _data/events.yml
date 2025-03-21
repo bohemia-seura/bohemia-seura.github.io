@@ -8,7 +8,7 @@
 #    například beseda, divadlo, drakiada, lampionovy_pruvod, masopust, pikkulas, piknik,
 #    pohadkova_sobota, promitani, setkani, sportovni_den, tanecni_zabava, velikonoce, vylet
 # K akci je možné přidat odkaz (url: [url]) na externí stránku
-# K akci je možné přidat poster (poster: [soubor.jpg]) uložený ve složce "posters"
+# K akci je možné přidat poster (poster: [soubor.jpg]) uložený ve složce "_events/posters"
 # K akci je možné přidat seznam organizátorů (organisers: [seznam jmen])
 #    nová jména přidejte do seznamu "_data/people.yml"
 #-------------------------------------------------------------------------------------
